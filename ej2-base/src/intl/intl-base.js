@@ -109,7 +109,7 @@ export var IntlBase;
                             "abbreviated": {
                                 "sun": 'Dom',
                                 "mon": 'Seg',
-                                "tur": 'Ter',
+                                "tue": 'Ter',
                                 "wed": 'Qua',
                                 "thu": 'Qui',
                                 "fri": 'Sex',
