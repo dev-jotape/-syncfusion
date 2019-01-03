@@ -1,4 +1,4 @@
-import { Query, DataManager } from '@syncfusion/ej2-data';
+import { Query, DataManager } from '-syncfusion/ej2-data';
 /**
  * data module is used to generate query and data source.
  * @hidden

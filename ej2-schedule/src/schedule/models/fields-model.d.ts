@@ -1,4 +1,4 @@
-import { Property, ChildProperty, Complex } from '@syncfusion/ej2-base';import { FieldOptionsModel } from './field-options-model';import { FieldOptions } from './field-options';
+import { Property, ChildProperty, Complex } from '-syncfusion/ej2-base';import { FieldOptionsModel } from './field-options-model';import { FieldOptions } from './field-options';
 
 /**
  * Interface for a class Field

@@ -1,6 +1,6 @@
-import { Button, IconPosition } from '@syncfusion/ej2-buttons';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { EmitType, BaseEventArgs, ChildProperty } from '@syncfusion/ej2-base';
+import { Button, IconPosition } from '-syncfusion/ej2-buttons';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { EmitType, BaseEventArgs, ChildProperty } from '-syncfusion/ej2-base';
 import { ProgressButtonModel, SpinSettingsModel, AnimationSettingsModel } from './progress-button-model';
 export declare class SpinSettings extends ChildProperty<SpinSettings> {
     /**

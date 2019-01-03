@@ -1,6 +1,6 @@
-import { setStyleAttribute, addClass, removeClass, ChildProperty, Complex } from '@syncfusion/ej2-base';import { isNullOrUndefined, formatUnit } from '@syncfusion/ej2-base';import { Browser } from '@syncfusion/ej2-base';import { calculatePosition, OffsetPosition, calculateRelativeBasedPosition } from '../common/position';import { Animation, AnimationModel, Property, Event, EmitType, Component } from '@syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged } from '@syncfusion/ej2-base';import { EventHandler } from '@syncfusion/ej2-base';import { flip, fit, isCollide , CollisionCoordinates } from '../common/collision';
+import { setStyleAttribute, addClass, removeClass, ChildProperty, Complex } from '-syncfusion/ej2-base';import { isNullOrUndefined, formatUnit } from '-syncfusion/ej2-base';import { Browser } from '-syncfusion/ej2-base';import { calculatePosition, OffsetPosition, calculateRelativeBasedPosition } from '../common/position';import { Animation, AnimationModel, Property, Event, EmitType, Component } from '-syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged } from '-syncfusion/ej2-base';import { EventHandler } from '-syncfusion/ej2-base';import { flip, fit, isCollide , CollisionCoordinates } from '../common/collision';
 import {TargetType,CollisionAxis,ActionOnScrollType} from "./popup";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class PositionData

@@ -1,4 +1,4 @@
-import { formatUnit } from '@syncfusion/ej2-base';
+import { formatUnit } from '-syncfusion/ej2-base';
 import { contentReady, uiUpdate, scrollUiUpdate } from '../base/constant';
 /**
  * `Scroll` module

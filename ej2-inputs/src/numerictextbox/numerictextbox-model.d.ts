@@ -1,6 +1,6 @@
-﻿import { Component, EventHandler, Property, Event, Browser, L10n, EmitType } from '@syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged, BaseEventArgs } from '@syncfusion/ej2-base';import { createElement, attributes, addClass, removeClass, setStyleAttribute, detach, closest } from '@syncfusion/ej2-base';import { isNullOrUndefined, getValue, formatUnit, setValue, merge } from '@syncfusion/ej2-base';import { Internationalization, NumberFormatOptions, getNumericObject } from '@syncfusion/ej2-base';import { Input, InputObject, FloatLabelType } from '../input/input';
+﻿import { Component, EventHandler, Property, Event, Browser, L10n, EmitType } from '-syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged, BaseEventArgs } from '-syncfusion/ej2-base';import { createElement, attributes, addClass, removeClass, setStyleAttribute, detach, closest } from '-syncfusion/ej2-base';import { isNullOrUndefined, getValue, formatUnit, setValue, merge } from '-syncfusion/ej2-base';import { Internationalization, NumberFormatOptions, getNumericObject } from '-syncfusion/ej2-base';import { Input, InputObject, FloatLabelType } from '../input/input';
 import {ChangeEventArgs} from "./numerictextbox";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class NumericTextBox

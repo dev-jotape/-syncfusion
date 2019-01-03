@@ -1,4 +1,4 @@
-import { createElement, remove } from '@syncfusion/ej2-base';
+import { createElement, remove } from '-syncfusion/ej2-base';
 /**
  * Schedule common utilities
  */

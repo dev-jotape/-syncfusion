@@ -1,6 +1,6 @@
-﻿import { Component, EventHandler, Property, Event, EmitType, Complex, classList } from '@syncfusion/ej2-base';import { L10n, Internationalization, NumberFormatOptions } from '@syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';import { attributes, addClass, removeClass, setStyleAttribute, detach } from '@syncfusion/ej2-base';import { isNullOrUndefined, formatUnit, Browser } from '@syncfusion/ej2-base';import { Tooltip, Position, TooltipEventArgs } from '@syncfusion/ej2-popups';
+﻿import { Component, EventHandler, Property, Event, EmitType, Complex, classList } from '-syncfusion/ej2-base';import { L10n, Internationalization, NumberFormatOptions } from '-syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';import { attributes, addClass, removeClass, setStyleAttribute, detach } from '-syncfusion/ej2-base';import { isNullOrUndefined, formatUnit, Browser } from '-syncfusion/ej2-base';import { Tooltip, Position, TooltipEventArgs } from '-syncfusion/ej2-popups';
 import {Placement,TooltipPlacement,TooltipShowOn,SliderType,SliderOrientation,SliderTooltipEventArgs} from "./slider";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class TicksData

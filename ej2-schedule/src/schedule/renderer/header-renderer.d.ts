@@ -1,4 +1,4 @@
-import { CalendarView } from '@syncfusion/ej2-calendars';
+import { CalendarView } from '-syncfusion/ej2-calendars';
 import { Schedule } from '../base/schedule';
 /**
  * Header module

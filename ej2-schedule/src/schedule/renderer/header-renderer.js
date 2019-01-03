@@ -1,7 +1,7 @@
-import { isNullOrUndefined, createElement, remove, closest, addClass, removeClass, extend } from '@syncfusion/ej2-base';
-import { Toolbar } from '@syncfusion/ej2-navigations';
-import { Calendar } from '@syncfusion/ej2-calendars';
-import { Popup } from '@syncfusion/ej2-popups';
+import { isNullOrUndefined, createElement, remove, closest, addClass, removeClass, extend } from '-syncfusion/ej2-base';
+import { Toolbar } from '-syncfusion/ej2-navigations';
+import { Calendar } from '-syncfusion/ej2-calendars';
+import { Popup } from '-syncfusion/ej2-popups';
 import * as events from '../base/constant';
 import * as util from '../base/util';
 import * as cls from '../base/css-constant';

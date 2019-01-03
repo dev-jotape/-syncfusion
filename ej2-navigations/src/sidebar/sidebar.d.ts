@@ -1,5 +1,5 @@
-import { Component } from '@syncfusion/ej2-base';
-import { EmitType, INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { Component } from '-syncfusion/ej2-base';
+import { EmitType, INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { SidebarModel } from './sidebar-model';
 /**
  * Specifies the Sidebar types.

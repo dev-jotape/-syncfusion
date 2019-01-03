@@ -1,7 +1,7 @@
-import { createCheckBox } from '@syncfusion/ej2-buttons';
-import { Input } from '@syncfusion/ej2-inputs';
-import { EventHandler, select, removeClass, addClass, detach, compile, L10n } from '@syncfusion/ej2-base';
-import { Browser, attributes, isNullOrUndefined, append, closest, prepend } from '@syncfusion/ej2-base';
+import { createCheckBox } from '-syncfusion/ej2-buttons';
+import { Input } from '-syncfusion/ej2-inputs';
+import { EventHandler, select, removeClass, addClass, detach, compile, L10n } from '-syncfusion/ej2-base';
+import { Browser, attributes, isNullOrUndefined, append, closest, prepend } from '-syncfusion/ej2-base';
 import { dropDownBaseClasses } from '../drop-down-base/drop-down-base';
 var ICON = 'e-icons';
 var CHECKBOXFRAME = 'e-frame';

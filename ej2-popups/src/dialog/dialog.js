@@ -17,14 +17,14 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Component, Property, Event, Collection, L10n, Browser, Complex, compile, createElement } from '@syncfusion/ej2-base';
-import { addClass, removeClass, detach, attributes, prepend, setStyleAttribute } from '@syncfusion/ej2-base';
-import { NotifyPropertyChanges, ChildProperty } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, formatUnit, append } from '@syncfusion/ej2-base';
-import { EventHandler } from '@syncfusion/ej2-base';
-import { Draggable } from '@syncfusion/ej2-base';
+import { Component, Property, Event, Collection, L10n, Browser, Complex, compile, createElement } from '-syncfusion/ej2-base';
+import { addClass, removeClass, detach, attributes, prepend, setStyleAttribute } from '-syncfusion/ej2-base';
+import { NotifyPropertyChanges, ChildProperty } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, formatUnit, append } from '-syncfusion/ej2-base';
+import { EventHandler } from '-syncfusion/ej2-base';
+import { Draggable } from '-syncfusion/ej2-base';
 import { Popup, PositionData, getZindexPartial } from '../popup/popup';
-import { Button } from '@syncfusion/ej2-buttons';
+import { Button } from '-syncfusion/ej2-buttons';
 import { createResize, removeResize, setMinHeight } from '../common/resize';
 var ButtonProps = /** @class */ (function (_super) {
     __extends(ButtonProps, _super);

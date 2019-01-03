@@ -11,7 +11,7 @@
 To install `Navigations` and its dependent packages, use the following command.
 
 ```sh
-npm install @syncfusion/ej2-navigations
+npm install -syncfusion/ej2-navigations
 ```
 
 ## Components included

@@ -1,5 +1,5 @@
-import { KeyboardEvents, closest, EventHandler, extend } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, addClass } from '@syncfusion/ej2-base';
+import { KeyboardEvents, closest, EventHandler, extend } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, addClass } from '-syncfusion/ej2-base';
 import * as event from '../base/constant';
 import * as util from '../base/util';
 import * as cls from '../base/css-constant';

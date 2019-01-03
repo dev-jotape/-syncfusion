@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { addClass, Browser, EventHandler, closest, extend, formatUnit, setStyleAttribute } from '@syncfusion/ej2-base';
+import { addClass, Browser, EventHandler, closest, extend, formatUnit, setStyleAttribute } from '-syncfusion/ej2-base';
 import { ActionBase } from '../actions/action-base';
 import * as util from '../base/util';
 import * as event from '../base/constant';

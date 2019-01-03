@@ -1,6 +1,6 @@
-import { Component, EventHandler, addClass, append, Property, Event, KeyboardEvents, EmitType, L10n, compile } from '@syncfusion/ej2-base';import { setStyleAttribute, extend, removeClass, prepend, isNullOrUndefined, detach, getValue, AnimationModel } from '@syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged, rippleEffect, RippleOptions, ChildProperty, Complex } from '@syncfusion/ej2-base';import { DataManager, Query, DataOptions, DataUtil } from '@syncfusion/ej2-data';import { ListBase, SortOrder, cssClass as ListBaseClasses } from '@syncfusion/ej2-lists';import { Popup } from '@syncfusion/ej2-popups';
+import { Component, EventHandler, addClass, append, Property, Event, KeyboardEvents, EmitType, L10n, compile } from '-syncfusion/ej2-base';import { setStyleAttribute, extend, removeClass, prepend, isNullOrUndefined, detach, getValue, AnimationModel } from '-syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged, rippleEffect, RippleOptions, ChildProperty, Complex } from '-syncfusion/ej2-base';import { DataManager, Query, DataOptions, DataUtil } from '-syncfusion/ej2-data';import { ListBase, SortOrder, cssClass as ListBaseClasses } from '-syncfusion/ej2-lists';import { Popup } from '-syncfusion/ej2-popups';
 import {SelectEventArgs} from "./drop-down-base";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class FieldSettings

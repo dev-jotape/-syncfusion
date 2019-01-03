@@ -1,5 +1,5 @@
-import { Base, EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { Base, EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { FormValidatorModel } from './form-validator-model';
 /**
  * global declarations

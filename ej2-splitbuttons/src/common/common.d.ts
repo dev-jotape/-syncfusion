@@ -1,4 +1,4 @@
-import { ChildProperty, BaseEventArgs } from '@syncfusion/ej2-base';
+import { ChildProperty, BaseEventArgs } from '-syncfusion/ej2-base';
 import { ItemModel } from './common-model';
 export declare type SplitButtonIconPosition = 'Left' | 'Top';
 /**

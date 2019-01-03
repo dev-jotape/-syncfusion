@@ -1,6 +1,6 @@
-import { Component, Event, Property, EmitType, NotifyPropertyChanges, INotifyPropertyChanged, BaseEventArgs } from '@syncfusion/ej2-base';import { isNullOrUndefined, formatUnit, getValue, setValue, attributes, addClass, detach, createElement } from '@syncfusion/ej2-base';import { removeClass , Browser} from '@syncfusion/ej2-base';import { Input, InputObject, FloatLabelType } from '../../input/input';import { regularExpressions, createMask, applyMask, wireEvents, unwireEvents, unstrippedValue, strippedValue } from '../base/index';import { setMaskValue, MaskUndo, setElementValue, bindClearEvent } from '../base/index';import { maskInputBlurHandler } from '../base/mask-base';
+import { Component, Event, Property, EmitType, NotifyPropertyChanges, INotifyPropertyChanged, BaseEventArgs } from '-syncfusion/ej2-base';import { isNullOrUndefined, formatUnit, getValue, setValue, attributes, addClass, detach, createElement } from '-syncfusion/ej2-base';import { removeClass , Browser} from '-syncfusion/ej2-base';import { Input, InputObject, FloatLabelType } from '../../input/input';import { regularExpressions, createMask, applyMask, wireEvents, unwireEvents, unstrippedValue, strippedValue } from '../base/index';import { setMaskValue, MaskUndo, setElementValue, bindClearEvent } from '../base/index';import { maskInputBlurHandler } from '../base/mask-base';
 import {MaskChangeEventArgs,MaskFocusEventArgs} from "./maskedtextbox";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class MaskedTextBox

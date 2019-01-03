@@ -1,5 +1,5 @@
-import { Component, EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, BaseEventArgs } from '@syncfusion/ej2-base';
+import { Component, EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, BaseEventArgs } from '-syncfusion/ej2-base';
 import { NumericTextBoxModel } from './numerictextbox-model';
 import { FloatLabelType } from '../input/input';
 /**

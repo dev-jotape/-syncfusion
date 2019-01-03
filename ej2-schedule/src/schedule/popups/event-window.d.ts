@@ -1,4 +1,4 @@
-import { Dialog } from '@syncfusion/ej2-popups';
+import { Dialog } from '-syncfusion/ej2-popups';
 import { Schedule } from '../base/schedule';
 import { CurrentAction } from '../base/type';
 /**

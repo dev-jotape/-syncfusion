@@ -17,10 +17,10 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { selectAll, select, createElement, Base } from '@syncfusion/ej2-base';
-import { extend, isNullOrUndefined, EventHandler } from '@syncfusion/ej2-base';
-import { Property, NotifyPropertyChanges, Event, onIntlChange } from '@syncfusion/ej2-base';
-import { L10n } from '@syncfusion/ej2-base';
+import { selectAll, select, createElement, Base } from '-syncfusion/ej2-base';
+import { extend, isNullOrUndefined, EventHandler } from '-syncfusion/ej2-base';
+import { Property, NotifyPropertyChanges, Event, onIntlChange } from '-syncfusion/ej2-base';
+import { L10n } from '-syncfusion/ej2-base';
 /**
  * global declarations
  */

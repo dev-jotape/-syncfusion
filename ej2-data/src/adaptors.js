@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { merge, extend, isNullOrUndefined, setValue, getValue } from '@syncfusion/ej2-base';
+import { merge, extend, isNullOrUndefined, setValue, getValue } from '-syncfusion/ej2-base';
 import { DataUtil } from './util';
 import { Query, Predicate } from './query';
 /**

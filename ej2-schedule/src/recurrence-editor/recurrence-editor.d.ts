@@ -1,5 +1,5 @@
-import { Component, INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { EmitType, L10n } from '@syncfusion/ej2-base';
+import { Component, INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { EmitType, L10n } from '-syncfusion/ej2-base';
 import { RecurrenceEditorModel } from './recurrence-editor-model';
 /**
  * Represents the RecurrenceEditor component.

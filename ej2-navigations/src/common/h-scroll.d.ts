@@ -1,5 +1,5 @@
-import { Component } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { Component } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { HScrollModel } from './h-scroll-model';
 /**
  * HScroll module is introduces horizontal scroller when content exceeds the current viewing area.

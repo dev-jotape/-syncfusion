@@ -18,8 +18,8 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 /// <reference path='../common/menu-base-model.d.ts'/>
-import { attributes, NotifyPropertyChanges, Property } from '@syncfusion/ej2-base';
-import { Browser, Complex } from '@syncfusion/ej2-base';
+import { attributes, NotifyPropertyChanges, Property } from '-syncfusion/ej2-base';
+import { Browser, Complex } from '-syncfusion/ej2-base';
 import { MenuBase, FieldSettings } from '../common/menu-base';
 var VMENU = 'e-vertical';
 var SCROLLABLE = 'e-scrollable';

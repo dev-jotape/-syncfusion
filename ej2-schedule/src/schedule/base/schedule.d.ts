@@ -1,6 +1,6 @@
-import { Component, ModuleDeclaration } from '@syncfusion/ej2-base';
-import { EmitType, Internationalization, L10n } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { Component, ModuleDeclaration } from '-syncfusion/ej2-base';
+import { EmitType, Internationalization, L10n } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { ScheduleModel } from './schedule-model';
 import { HeaderRenderer } from '../renderer/header-renderer';
 import { Scroll } from '../actions/scroll';

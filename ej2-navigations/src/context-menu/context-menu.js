@@ -18,8 +18,8 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 /// <reference path='../common/menu-base-model.d.ts'/>
-import { attributes, Collection, NotifyPropertyChanges, Property } from '@syncfusion/ej2-base';
-import { getZindexPartial } from '@syncfusion/ej2-popups';
+import { attributes, Collection, NotifyPropertyChanges, Property } from '-syncfusion/ej2-base';
+import { getZindexPartial } from '-syncfusion/ej2-popups';
 import { MenuBase, MenuItem } from '../common/menu-base';
 /**
  * The ContextMenu is a graphical user interface that appears on the user right click/touch hold operation.

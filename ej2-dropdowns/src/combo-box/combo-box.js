@@ -18,13 +18,13 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 /// <reference path='../drop-down-list/drop-down-list-model.d.ts'/>
-import { EventHandler, Property, Event, addClass, Browser, removeClass, detach } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, NotifyPropertyChanges, getValue, setValue } from '@syncfusion/ej2-base';
+import { EventHandler, Property, Event, addClass, Browser, removeClass, detach } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, NotifyPropertyChanges, getValue, setValue } from '-syncfusion/ej2-base';
 import { DropDownList, dropDownListClasses } from '../drop-down-list/drop-down-list';
 import { Search } from '../common/incremental-search';
-import { createSpinner, showSpinner, hideSpinner } from '@syncfusion/ej2-popups';
+import { createSpinner, showSpinner, hideSpinner } from '-syncfusion/ej2-popups';
 /* tslint:disable */
-import { Input } from '@syncfusion/ej2-inputs';
+import { Input } from '-syncfusion/ej2-inputs';
 /* tslint:enable */
 var SPINNER_CLASS = 'e-atc-spinner-icon';
 dropDownListClasses.root = 'e-combobox';

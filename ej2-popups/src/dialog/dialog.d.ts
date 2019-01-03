@@ -1,8 +1,8 @@
-import { Component, EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';
+import { Component, EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';
 import { ButtonPropsModel, DialogModel, AnimationSettingsModel } from './dialog-model';
 import { PositionDataModel } from '../popup/popup-model';
-import { Button, ButtonModel } from '@syncfusion/ej2-buttons';
+import { Button, ButtonModel } from '-syncfusion/ej2-buttons';
 export declare type ButtonType = 'Button' | 'Submit' | 'Reset';
 export declare class ButtonProps extends ChildProperty<ButtonProps> {
     /**

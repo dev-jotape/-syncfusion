@@ -1,6 +1,6 @@
-import { Component, EventHandler, Internationalization, ModuleDeclaration } from '@syncfusion/ej2-base';import { INotifyPropertyChanged, KeyboardEvents, L10n } from '@syncfusion/ej2-base';import { NotifyPropertyChanges, KeyboardEventArgs, BaseEventArgs } from '@syncfusion/ej2-base';import { cldrData, getDefaultDateObject, rippleEffect } from '@syncfusion/ej2-base';import { createElement, removeClass, detach, closest, addClass, attributes } from '@syncfusion/ej2-base';import { getValue, getUniqueID, extend, Browser } from '@syncfusion/ej2-base';import { Property, Event, EmitType, isNullOrUndefined, throwError } from '@syncfusion/ej2-base';import { Islamic, IslamicDateArgs } from './index';
+import { Component, EventHandler, Internationalization, ModuleDeclaration } from '-syncfusion/ej2-base';import { INotifyPropertyChanged, KeyboardEvents, L10n } from '-syncfusion/ej2-base';import { NotifyPropertyChanges, KeyboardEventArgs, BaseEventArgs } from '-syncfusion/ej2-base';import { cldrData, getDefaultDateObject, rippleEffect } from '-syncfusion/ej2-base';import { createElement, removeClass, detach, closest, addClass, attributes } from '-syncfusion/ej2-base';import { getValue, getUniqueID, extend, Browser } from '-syncfusion/ej2-base';import { Property, Event, EmitType, isNullOrUndefined, throwError } from '-syncfusion/ej2-base';import { Islamic, IslamicDateArgs } from './index';
 import {CalendarType,CalendarView,NavigatedEventArgs,RenderDayCellEventArgs,ChangedEventArgs} from "./calendar";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class CalendarBase

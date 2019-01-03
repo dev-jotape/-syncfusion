@@ -1,5 +1,5 @@
-import { addClass, removeClass, Touch, remove, EventHandler, Browser } from '@syncfusion/ej2-base';
-import { closest, isNullOrUndefined } from '@syncfusion/ej2-base';
+import { addClass, removeClass, Touch, remove, EventHandler, Browser } from '-syncfusion/ej2-base';
+import { closest, isNullOrUndefined } from '-syncfusion/ej2-base';
 import * as events from '../base/constant';
 import * as cls from '../base/css-constant';
 /**

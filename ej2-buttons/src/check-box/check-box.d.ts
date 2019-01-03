@@ -1,5 +1,5 @@
-import { Component, INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { EmitType } from '@syncfusion/ej2-base';
+import { Component, INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
 import { CheckBoxModel } from './check-box-model';
 import { ChangeEventArgs } from './../common/common';
 export declare type LabelPosition = 'After' | 'Before';

@@ -17,11 +17,11 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Component, EventHandler, addClass, append, Property, Event, L10n, compile } from '@syncfusion/ej2-base';
-import { setStyleAttribute, extend, removeClass, prepend, isNullOrUndefined, detach, getValue } from '@syncfusion/ej2-base';
-import { NotifyPropertyChanges, rippleEffect, ChildProperty, Complex } from '@syncfusion/ej2-base';
-import { DataManager, Query, DataUtil } from '@syncfusion/ej2-data';
-import { ListBase, cssClass as ListBaseClasses } from '@syncfusion/ej2-lists';
+import { Component, EventHandler, addClass, append, Property, Event, L10n, compile } from '-syncfusion/ej2-base';
+import { setStyleAttribute, extend, removeClass, prepend, isNullOrUndefined, detach, getValue } from '-syncfusion/ej2-base';
+import { NotifyPropertyChanges, rippleEffect, ChildProperty, Complex } from '-syncfusion/ej2-base';
+import { DataManager, Query, DataUtil } from '-syncfusion/ej2-data';
+import { ListBase, cssClass as ListBaseClasses } from '-syncfusion/ej2-lists';
 var FieldSettings = /** @class */ (function (_super) {
     __extends(FieldSettings, _super);
     function FieldSettings() {

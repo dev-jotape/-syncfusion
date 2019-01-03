@@ -1,10 +1,10 @@
-import { Component, KeyboardEvents, EmitType, L10n } from '@syncfusion/ej2-base';
-import { AnimationModel } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';
-import { DataManager, Query } from '@syncfusion/ej2-data';
-import { SortOrder } from '@syncfusion/ej2-lists';
+import { Component, KeyboardEvents, EmitType, L10n } from '-syncfusion/ej2-base';
+import { AnimationModel } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';
+import { DataManager, Query } from '-syncfusion/ej2-data';
+import { SortOrder } from '-syncfusion/ej2-lists';
 import { DropDownBaseModel, FieldSettingsModel } from './drop-down-base-model';
-import { Popup } from '@syncfusion/ej2-popups';
+import { Popup } from '-syncfusion/ej2-popups';
 export declare class FieldSettings extends ChildProperty<FieldSettings> {
     /**
      * Maps the text column from data table for each list item

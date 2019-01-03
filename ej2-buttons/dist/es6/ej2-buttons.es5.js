@@ -1,4 +1,4 @@
-import { Component, Event, EventHandler, NotifyPropertyChanges, Property, addClass, append, attributes, closest, deleteObject, detach, getInstance, getUniqueID, getValue, isNullOrUndefined, isRippleEnabled, removeClass, rippleEffect, setValue } from '@syncfusion/ej2-base';
+import { Component, Event, EventHandler, NotifyPropertyChanges, Property, addClass, append, attributes, closest, deleteObject, detach, getInstance, getUniqueID, getValue, isNullOrUndefined, isRippleEnabled, removeClass, rippleEffect, setValue } from '-syncfusion/ej2-base';
 
 /**
  * Initialize wrapper element for angular.

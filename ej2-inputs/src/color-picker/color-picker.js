@@ -17,12 +17,12 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Component, Event, NotifyPropertyChanges, Property } from '@syncfusion/ej2-base';
-import { Browser, closest, detach, EventHandler, getInstance, select, selectAll, formatUnit } from '@syncfusion/ej2-base';
-import { addClass, attributes, classList, isNullOrUndefined, L10n } from '@syncfusion/ej2-base';
-import { remove, removeClass, rippleEffect } from '@syncfusion/ej2-base';
-import { SplitButton, getModel } from '@syncfusion/ej2-splitbuttons';
-import { Tooltip, getZindexPartial, Popup } from '@syncfusion/ej2-popups';
+import { Component, Event, NotifyPropertyChanges, Property } from '-syncfusion/ej2-base';
+import { Browser, closest, detach, EventHandler, getInstance, select, selectAll, formatUnit } from '-syncfusion/ej2-base';
+import { addClass, attributes, classList, isNullOrUndefined, L10n } from '-syncfusion/ej2-base';
+import { remove, removeClass, rippleEffect } from '-syncfusion/ej2-base';
+import { SplitButton, getModel } from '-syncfusion/ej2-splitbuttons';
+import { Tooltip, getZindexPartial, Popup } from '-syncfusion/ej2-popups';
 import { Input } from './../input/index';
 import { NumericTextBox } from './../numerictextbox/index';
 import { Slider } from './../slider/slider';

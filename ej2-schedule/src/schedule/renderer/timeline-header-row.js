@@ -1,4 +1,4 @@
-import { compile } from '@syncfusion/ej2-base';
+import { compile } from '-syncfusion/ej2-base';
 import { MS_PER_DAY, getWeekNumber } from '../base/util';
 /**
  * timeline header

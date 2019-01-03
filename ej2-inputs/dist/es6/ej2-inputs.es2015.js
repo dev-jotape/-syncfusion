@@ -1,6 +1,6 @@
-import { Ajax, Animation, Base, Browser, ChildProperty, Collection, Complex, Component, Event, EventHandler, Internationalization, KeyboardEvents, L10n, NotifyPropertyChanges, Property, addClass, append, attributes, classList, closest, compile, createElement, detach, extend, formatUnit, getInstance, getNumericObject, getUniqueID, getValue, isNullOrUndefined, merge, onIntlChange, remove, removeClass, rippleEffect, select, selectAll, setStyleAttribute, setValue } from '@syncfusion/ej2-base';
-import { Popup, Tooltip, createSpinner, getZindexPartial, hideSpinner, showSpinner } from '@syncfusion/ej2-popups';
-import { SplitButton, getModel } from '@syncfusion/ej2-splitbuttons';
+import { Ajax, Animation, Base, Browser, ChildProperty, Collection, Complex, Component, Event, EventHandler, Internationalization, KeyboardEvents, L10n, NotifyPropertyChanges, Property, addClass, append, attributes, classList, closest, compile, createElement, detach, extend, formatUnit, getInstance, getNumericObject, getUniqueID, getValue, isNullOrUndefined, merge, onIntlChange, remove, removeClass, rippleEffect, select, selectAll, setStyleAttribute, setValue } from '-syncfusion/ej2-base';
+import { Popup, Tooltip, createSpinner, getZindexPartial, hideSpinner, showSpinner } from '-syncfusion/ej2-popups';
+import { SplitButton, getModel } from '-syncfusion/ej2-splitbuttons';
 
 const CLASSNAMES = {
     RTL: 'e-rtl',

@@ -1,6 +1,6 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
-import { AnimationModel, EmitType, Component } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { ChildProperty } from '-syncfusion/ej2-base';
+import { AnimationModel, EmitType, Component } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { PopupModel, PositionDataModel } from './popup-model';
 /**
  * Specifies the offset position values.

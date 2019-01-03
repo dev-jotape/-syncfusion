@@ -17,12 +17,12 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Component, EventHandler, Property, Event, Complex } from '@syncfusion/ej2-base';
-import { L10n, Internationalization } from '@syncfusion/ej2-base';
-import { NotifyPropertyChanges, ChildProperty } from '@syncfusion/ej2-base';
-import { attributes, addClass, removeClass, setStyleAttribute, detach } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, formatUnit, Browser } from '@syncfusion/ej2-base';
-import { Tooltip } from '@syncfusion/ej2-popups';
+import { Component, EventHandler, Property, Event, Complex } from '-syncfusion/ej2-base';
+import { L10n, Internationalization } from '-syncfusion/ej2-base';
+import { NotifyPropertyChanges, ChildProperty } from '-syncfusion/ej2-base';
+import { attributes, addClass, removeClass, setStyleAttribute, detach } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, formatUnit, Browser } from '-syncfusion/ej2-base';
+import { Tooltip } from '-syncfusion/ej2-popups';
 /**
  * Configures the ticks data of the Slider.
  */

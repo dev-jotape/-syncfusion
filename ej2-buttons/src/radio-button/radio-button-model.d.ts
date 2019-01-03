@@ -1,6 +1,6 @@
-import { Component, INotifyPropertyChanged, rippleEffect, NotifyPropertyChanges, Property } from '@syncfusion/ej2-base';import { addClass, getInstance, getUniqueID, isRippleEnabled, removeClass } from '@syncfusion/ej2-base';import { BaseEventArgs, detach, EmitType, Event, EventHandler } from '@syncfusion/ej2-base';import { wrapperInitialize, rippleMouseHandler } from './../common/common';
+import { Component, INotifyPropertyChanged, rippleEffect, NotifyPropertyChanges, Property } from '-syncfusion/ej2-base';import { addClass, getInstance, getUniqueID, isRippleEnabled, removeClass } from '-syncfusion/ej2-base';import { BaseEventArgs, detach, EmitType, Event, EventHandler } from '-syncfusion/ej2-base';import { wrapperInitialize, rippleMouseHandler } from './../common/common';
 import {ChangeArgs,RadioLabelPosition} from "./radio-button";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class RadioButton

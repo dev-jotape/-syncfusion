@@ -1,7 +1,7 @@
 /**
  * MaskedTextBox base module
  */
-import { EventHandler, isNullOrUndefined, merge, attributes, addClass, removeClass, Browser, extend } from '@syncfusion/ej2-base';
+import { EventHandler, isNullOrUndefined, merge, attributes, addClass, removeClass, Browser, extend } from '-syncfusion/ej2-base';
 import { Input } from '../../input/input';
 var ERROR = 'e-error';
 var INPUTGROUP = 'e-input-group';

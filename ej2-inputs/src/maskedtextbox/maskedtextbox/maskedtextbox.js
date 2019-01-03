@@ -17,9 +17,9 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Component, Event, Property, NotifyPropertyChanges } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, formatUnit, getValue, setValue, addClass, detach } from '@syncfusion/ej2-base';
-import { removeClass, Browser } from '@syncfusion/ej2-base';
+import { Component, Event, Property, NotifyPropertyChanges } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, formatUnit, getValue, setValue, addClass, detach } from '-syncfusion/ej2-base';
+import { removeClass, Browser } from '-syncfusion/ej2-base';
 import { Input } from '../../input/input';
 import { regularExpressions, createMask, applyMask, wireEvents, unwireEvents, unstrippedValue, strippedValue } from '../base/index';
 import { setMaskValue, setElementValue, bindClearEvent } from '../base/index';

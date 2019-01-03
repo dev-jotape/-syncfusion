@@ -11,7 +11,7 @@ A common package of Syncfusion Vue UI Components (Essential JS 2) which contains
 To install `ej2-vue-base` and its dependent packages, use the following command
 
 ```sh
-npm install @syncfusion/ej2-vue-base
+npm install -syncfusion/ej2-vue-base
 ```
 
 ## Resources

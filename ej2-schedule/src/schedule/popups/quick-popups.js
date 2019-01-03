@@ -1,8 +1,8 @@
-import { closest, EventHandler, isNullOrUndefined, formatUnit, append } from '@syncfusion/ej2-base';
-import { addClass, removeClass, createElement, remove, extend } from '@syncfusion/ej2-base';
-import { Dialog, Popup, isCollide } from '@syncfusion/ej2-popups';
-import { Button } from '@syncfusion/ej2-buttons';
-import { Input } from '@syncfusion/ej2-inputs';
+import { closest, EventHandler, isNullOrUndefined, formatUnit, append } from '-syncfusion/ej2-base';
+import { addClass, removeClass, createElement, remove, extend } from '-syncfusion/ej2-base';
+import { Dialog, Popup, isCollide } from '-syncfusion/ej2-popups';
+import { Button } from '-syncfusion/ej2-buttons';
+import { Input } from '-syncfusion/ej2-inputs';
 import { generateSummary } from '../../recurrence-editor/date-generator';
 import { Crud } from '../actions/crud';
 import { FieldValidator } from './form-validator';

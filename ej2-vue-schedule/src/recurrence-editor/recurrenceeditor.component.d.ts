@@ -1,4 +1,4 @@
-import { ComponentBase } from '@syncfusion/ej2-vue-base';
+import { ComponentBase } from '-syncfusion/ej2-vue-base';
 export declare const properties: string[];
 export declare const modelProps: string[];
 /**

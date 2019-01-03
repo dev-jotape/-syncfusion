@@ -13,7 +13,7 @@ A package of Essential JS 2 Input textbox components. It comes with a collection
 To install Input and its dependent packages, use the following command
 
 ```sh
-npm install @syncfusion/ej2-inputs
+npm install -syncfusion/ej2-inputs
 ```
 
 ## Components included

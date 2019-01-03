@@ -1,4 +1,4 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
+import { ChildProperty } from '-syncfusion/ej2-base';
 import { View } from '../base/type';
 import { TimeScaleModel, GroupModel, HeaderRowsModel } from '../models/models';
 /**

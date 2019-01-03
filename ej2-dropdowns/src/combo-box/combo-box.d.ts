@@ -1,10 +1,10 @@
 /// <reference path="../drop-down-list/drop-down-list-model.d.ts" />
-import { EmitType, KeyboardEventArgs } from '@syncfusion/ej2-base';
+import { EmitType, KeyboardEventArgs } from '-syncfusion/ej2-base';
 import { DropDownList } from '../drop-down-list/drop-down-list';
 import { FilteringEventArgs } from '../drop-down-base/drop-down-base';
 import { ComboBoxModel } from '../combo-box/combo-box-model';
-import { InputObject, FloatLabelType } from '@syncfusion/ej2-inputs';
-import { Query } from '@syncfusion/ej2-data';
+import { InputObject, FloatLabelType } from '-syncfusion/ej2-inputs';
+import { Query } from '-syncfusion/ej2-data';
 /**
  * The ComboBox component allows the user to type a value or choose an option from the list of predefined options.
  * ```html

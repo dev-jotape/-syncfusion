@@ -1,10 +1,10 @@
-import { Component, EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';
-import { KeyboardEventArgs } from '@syncfusion/ej2-base';
-import { Effect } from '@syncfusion/ej2-base';
-import { DataManager, Query } from '@syncfusion/ej2-data';
-import { TapEventArgs } from '@syncfusion/ej2-base';
-import { ListBaseOptions, FieldsMapping } from '@syncfusion/ej2-lists';
+import { Component, EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';
+import { KeyboardEventArgs } from '-syncfusion/ej2-base';
+import { Effect } from '-syncfusion/ej2-base';
+import { DataManager, Query } from '-syncfusion/ej2-data';
+import { TapEventArgs } from '-syncfusion/ej2-base';
+import { ListBaseOptions, FieldsMapping } from '-syncfusion/ej2-lists';
 import { TreeViewModel, FieldsSettingsModel, NodeAnimationSettingsModel, ActionSettingsModel } from './treeview-model';
 export interface EJ2Instance extends HTMLElement {
     ej2_instances: Object[];

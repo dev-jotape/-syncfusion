@@ -1,4 +1,4 @@
-import { L10n } from '@syncfusion/ej2-base';
+import { L10n } from '-syncfusion/ej2-base';
 /**
  * Date Generator from Recurrence Rule
  */

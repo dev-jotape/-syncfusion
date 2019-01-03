@@ -13,7 +13,7 @@ The schedule component is an event calendar that facilitates almost all the basi
 To install Schedule and its dependent packages, use the following command.
 
 ```sh
-npm install @syncfusion/ej2-vue-schedule
+npm install -syncfusion/ej2-vue-schedule
 ```
 
 ## Resources

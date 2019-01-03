@@ -1,5 +1,5 @@
-import { detach, getUniqueID, rippleEffect, setValue, attributes } from '@syncfusion/ej2-base';
-import { getValue, addClass, deleteObject } from '@syncfusion/ej2-base';
+import { detach, getUniqueID, rippleEffect, setValue, attributes } from '-syncfusion/ej2-base';
+import { getValue, addClass, deleteObject } from '-syncfusion/ej2-base';
 /**
  * Initialize wrapper element for angular.
  * @private

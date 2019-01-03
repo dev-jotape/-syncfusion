@@ -17,9 +17,9 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Component, formatUnit, EventHandler, Event, isNullOrUndefined, closest } from '@syncfusion/ej2-base';
-import { Property, NotifyPropertyChanges, Browser } from '@syncfusion/ej2-base';
-import { setStyleAttribute as setStyle, addClass, removeClass, Touch } from '@syncfusion/ej2-base';
+import { Component, formatUnit, EventHandler, Event, isNullOrUndefined, closest } from '-syncfusion/ej2-base';
+import { Property, NotifyPropertyChanges, Browser } from '-syncfusion/ej2-base';
+import { setStyleAttribute as setStyle, addClass, removeClass, Touch } from '-syncfusion/ej2-base';
 var CONTROL = 'e-control';
 var ROOT = 'e-sidebar';
 var DOCKER = 'e-dock';

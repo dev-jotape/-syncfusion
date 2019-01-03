@@ -1,11 +1,11 @@
 /// <reference path="../drop-down-base/drop-down-base-model.d.ts" />
-import { EmitType } from '@syncfusion/ej2-base';
-import { KeyboardEventArgs } from '@syncfusion/ej2-base';
-import { IInput, InputObject, FloatLabelType } from '@syncfusion/ej2-inputs';
+import { EmitType } from '-syncfusion/ej2-base';
+import { KeyboardEventArgs } from '-syncfusion/ej2-base';
+import { IInput, InputObject, FloatLabelType } from '-syncfusion/ej2-inputs';
 import { DropDownBase, SelectEventArgs, FilteringEventArgs, PopupEventArgs } from '../drop-down-base/drop-down-base';
 import { FieldSettingsModel } from '../drop-down-base/drop-down-base-model';
 import { DropDownListModel } from '../drop-down-list';
-import { Query } from '@syncfusion/ej2-data';
+import { Query } from '-syncfusion/ej2-data';
 export interface ChangeEventArgs extends SelectEventArgs {
     /**
      * Returns the selected value

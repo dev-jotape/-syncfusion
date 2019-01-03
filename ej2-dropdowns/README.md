@@ -13,7 +13,7 @@ Superset of HTML select box contains specific features such as data binding, gro
 Use the following command to install drop-down components and its dependent packages
 
 ```
-npm install @syncfusion/ej2-dropdowns
+npm install -syncfusion/ej2-dropdowns
 ```
 
 ## 2. Components included

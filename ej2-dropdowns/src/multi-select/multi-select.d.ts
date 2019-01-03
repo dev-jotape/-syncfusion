@@ -1,11 +1,11 @@
 /// <reference path="../drop-down-base/drop-down-base-model.d.ts" />
 import { DropDownBase, SelectEventArgs, PopupEventArgs, FilteringEventArgs } from '../drop-down-base/drop-down-base';
 import { FieldSettingsModel } from '../drop-down-base/drop-down-base-model';
-import { IInput, FloatLabelType } from '@syncfusion/ej2-inputs';
-import { EmitType, KeyboardEventArgs } from '@syncfusion/ej2-base';
+import { IInput, FloatLabelType } from '-syncfusion/ej2-inputs';
+import { EmitType, KeyboardEventArgs } from '-syncfusion/ej2-base';
 import { MultiSelectModel } from '../multi-select';
-import { ModuleDeclaration } from '@syncfusion/ej2-base';
-import { Query } from '@syncfusion/ej2-data';
+import { ModuleDeclaration } from '-syncfusion/ej2-base';
+import { Query } from '-syncfusion/ej2-data';
 export interface RemoveEventArgs extends SelectEventArgs {
 }
 /**

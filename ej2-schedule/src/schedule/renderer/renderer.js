@@ -1,4 +1,4 @@
-import { isNullOrUndefined, extend } from '@syncfusion/ej2-base';
+import { isNullOrUndefined, extend } from '-syncfusion/ej2-base';
 import { EventTooltip } from '../popups/event-tooltip';
 import * as events from '../base/constant';
 import * as cls from '../base/css-constant';

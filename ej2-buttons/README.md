@@ -13,7 +13,7 @@ A package of Syncfusion JavaScript UI Components (Essential JS 2) Button, CheckB
 To install `Button` and its dependent packages, use the following command
 
 ```sh
-npm install @syncfusion/ej2-buttons
+npm install -syncfusion/ej2-buttons
 ```
 
 ## Components included

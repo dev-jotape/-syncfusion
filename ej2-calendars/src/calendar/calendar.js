@@ -17,13 +17,13 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Component, EventHandler, Internationalization } from '@syncfusion/ej2-base';
-import { KeyboardEvents, L10n } from '@syncfusion/ej2-base';
-import { NotifyPropertyChanges } from '@syncfusion/ej2-base';
-import { cldrData, getDefaultDateObject, rippleEffect } from '@syncfusion/ej2-base';
-import { removeClass, detach, closest, addClass, attributes } from '@syncfusion/ej2-base';
-import { getValue, getUniqueID, extend, Browser } from '@syncfusion/ej2-base';
-import { Property, Event, isNullOrUndefined, throwError } from '@syncfusion/ej2-base';
+import { Component, EventHandler, Internationalization } from '-syncfusion/ej2-base';
+import { KeyboardEvents, L10n } from '-syncfusion/ej2-base';
+import { NotifyPropertyChanges } from '-syncfusion/ej2-base';
+import { cldrData, getDefaultDateObject, rippleEffect } from '-syncfusion/ej2-base';
+import { removeClass, detach, closest, addClass, attributes } from '-syncfusion/ej2-base';
+import { getValue, getUniqueID, extend, Browser } from '-syncfusion/ej2-base';
+import { Property, Event, isNullOrUndefined, throwError } from '-syncfusion/ej2-base';
 //class constant defination.
 var OTHERMONTH = 'e-other-month';
 var ROOT = 'e-calendar';

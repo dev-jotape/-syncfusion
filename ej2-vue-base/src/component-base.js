@@ -15,7 +15,7 @@ var __extends = (this && this.__extends) || (function () {
  * Vue Component Base
  */
 import Vue from 'vue';
-import { isNullOrUndefined, extend, getValue } from '@syncfusion/ej2-base';
+import { isNullOrUndefined, extend, getValue } from '-syncfusion/ej2-base';
 var ComponentBase = /** @class */ (function (_super) {
     __extends(ComponentBase, _super);
     function ComponentBase() {

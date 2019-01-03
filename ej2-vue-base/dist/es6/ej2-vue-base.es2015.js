@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import { createElement, detach, extend, getTemplateEngine, getUniqueID, getValue, isNullOrUndefined, setTemplateEngine } from '@syncfusion/ej2-base';
+import { createElement, detach, extend, getTemplateEngine, getUniqueID, getValue, isNullOrUndefined, setTemplateEngine } from '-syncfusion/ej2-base';
 
 /**
  * Vue Component Base

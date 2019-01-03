@@ -2,8 +2,8 @@
  * FloatLable Moduel
  * Specifies whether to display the floating label above the input element.
  */
-import { removeClass, addClass, detach } from '@syncfusion/ej2-base';
-import { attributes, isNullOrUndefined, createElement } from '@syncfusion/ej2-base';
+import { removeClass, addClass, detach } from '-syncfusion/ej2-base';
+import { attributes, isNullOrUndefined, createElement } from '-syncfusion/ej2-base';
 var FLOATLINE = 'e-float-line';
 var FLOATTEXT = 'e-float-text';
 var LABELTOP = 'e-label-top';

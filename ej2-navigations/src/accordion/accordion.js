@@ -17,12 +17,12 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Component, EventHandler, Property, Event, KeyboardEvents, rippleEffect } from '@syncfusion/ej2-base';
-import { getUniqueID, compile as templateCompiler } from '@syncfusion/ej2-base';
-import { addClass, isVisible, closest, attributes, classList, detach, select } from '@syncfusion/ej2-base';
-import { NotifyPropertyChanges, ChildProperty, Collection, Animation } from '@syncfusion/ej2-base';
-import { setStyleAttribute as setStyle, Complex } from '@syncfusion/ej2-base';
-import { isNullOrUndefined as isNOU, formatUnit, selectAll } from '@syncfusion/ej2-base';
+import { Component, EventHandler, Property, Event, KeyboardEvents, rippleEffect } from '-syncfusion/ej2-base';
+import { getUniqueID, compile as templateCompiler } from '-syncfusion/ej2-base';
+import { addClass, isVisible, closest, attributes, classList, detach, select } from '-syncfusion/ej2-base';
+import { NotifyPropertyChanges, ChildProperty, Collection, Animation } from '-syncfusion/ej2-base';
+import { setStyleAttribute as setStyle, Complex } from '-syncfusion/ej2-base';
+import { isNullOrUndefined as isNOU, formatUnit, selectAll } from '-syncfusion/ej2-base';
 var CLS_ACRDN_ROOT = 'e-acrdn-root';
 var CLS_ROOT = 'e-accordion';
 var CLS_ITEM = 'e-acrdn-item';

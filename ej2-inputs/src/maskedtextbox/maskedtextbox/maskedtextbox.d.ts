@@ -1,4 +1,4 @@
-import { Component, EmitType, INotifyPropertyChanged, BaseEventArgs } from '@syncfusion/ej2-base';
+import { Component, EmitType, INotifyPropertyChanged, BaseEventArgs } from '-syncfusion/ej2-base';
 import { FloatLabelType } from '../../input/input';
 import { MaskedTextBoxModel } from './maskedtextbox-model';
 /**

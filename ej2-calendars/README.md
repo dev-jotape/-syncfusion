@@ -15,7 +15,7 @@ The calendar package contains date and time components such as calendar, date pi
 To install `Calendar` and its dependent packages, use the following command.
 
 ```sh
-npm install @syncfusion/ej2-calendars
+npm install -syncfusion/ej2-calendars
 ```
 
 ## Components

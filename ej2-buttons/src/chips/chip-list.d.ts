@@ -1,6 +1,6 @@
-import { Component, INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { KeyboardEventArgs, MouseEventArgs } from '@syncfusion/ej2-base';
-import { EmitType } from '@syncfusion/ej2-base';
+import { Component, INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { KeyboardEventArgs, MouseEventArgs } from '-syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
 import { ChipListModel } from './chip-list-model';
 import { ChipModel } from './chip';
 export declare const classNames: ClassNames;

@@ -1,5 +1,5 @@
-import { Component, INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { BaseEventArgs, EmitType } from '@syncfusion/ej2-base';
+import { Component, INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { BaseEventArgs, EmitType } from '-syncfusion/ej2-base';
 import { RadioButtonModel } from './radio-button-model';
 export declare type RadioLabelPosition = 'After' | 'Before';
 /**

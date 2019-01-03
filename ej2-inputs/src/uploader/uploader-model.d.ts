@@ -1,6 +1,6 @@
-﻿import { Component, Property, Event, EmitType, EventHandler, classList, L10n, compile, isNullOrUndefined } from '@syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged, detach, append, Animation } from '@syncfusion/ej2-base';import { addClass, removeClass, KeyboardEvents, KeyboardEventArgs, setValue, getValue, ChildProperty } from '@syncfusion/ej2-base';import { Collection, Complex, Browser, Ajax, BeforeSendEventArgs, getUniqueID } from '@syncfusion/ej2-base';import { createSpinner, showSpinner, hideSpinner } from '@syncfusion/ej2-popups';
+﻿import { Component, Property, Event, EmitType, EventHandler, classList, L10n, compile, isNullOrUndefined } from '-syncfusion/ej2-base';import { NotifyPropertyChanges, INotifyPropertyChanged, detach, append, Animation } from '-syncfusion/ej2-base';import { addClass, removeClass, KeyboardEvents, KeyboardEventArgs, setValue, getValue, ChildProperty } from '-syncfusion/ej2-base';import { Collection, Complex, Browser, Ajax, BeforeSendEventArgs, getUniqueID } from '-syncfusion/ej2-base';import { createSpinner, showSpinner, hideSpinner } from '-syncfusion/ej2-popups';
 import {SelectedEventArgs,UploadingEventArgs,RemovingEventArgs,ClearingEventArgs,CancelEventArgs,PauseResumeEventArgs} from "./uploader";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class FilesProp

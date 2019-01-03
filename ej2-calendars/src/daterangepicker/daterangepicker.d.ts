@@ -1,8 +1,8 @@
 /// <reference path="../calendar/calendar-model.d.ts" />
-import { KeyboardEvents, BaseEventArgs, KeyboardEventArgs, EmitType, ChildProperty } from '@syncfusion/ej2-base';
+import { KeyboardEvents, BaseEventArgs, KeyboardEventArgs, EmitType, ChildProperty } from '-syncfusion/ej2-base';
 import { CalendarView, CalendarBase, NavigatedEventArgs, RenderDayCellEventArgs, CalendarType } from '../calendar/calendar';
-import { Popup } from '@syncfusion/ej2-popups';
-import { FloatLabelType, FocusEventArgs, BlurEventArgs } from '@syncfusion/ej2-inputs';
+import { Popup } from '-syncfusion/ej2-popups';
+import { FloatLabelType, FocusEventArgs, BlurEventArgs } from '-syncfusion/ej2-inputs';
 import { PresetsModel, DateRangePickerModel } from './daterangepicker-model';
 export declare class Presets extends ChildProperty<Presets> {
     /**

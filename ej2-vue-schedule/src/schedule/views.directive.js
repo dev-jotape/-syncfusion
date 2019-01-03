@@ -18,7 +18,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 import Vue from 'vue';
-import { EJComponentDecorator } from '@syncfusion/ej2-vue-base';
+import { EJComponentDecorator } from '-syncfusion/ej2-vue-base';
 var ViewsDirective = /** @class */ (function (_super) {
     __extends(ViewsDirective, _super);
     function ViewsDirective() {

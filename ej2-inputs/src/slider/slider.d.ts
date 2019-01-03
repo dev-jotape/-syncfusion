@@ -1,5 +1,5 @@
-import { Component, EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';
+import { Component, EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';
 import { SliderModel, TicksDataModel, TooltipDataModel, LimitDataModel } from './slider-model';
 /**
  * Configures the ticks data of the Slider.

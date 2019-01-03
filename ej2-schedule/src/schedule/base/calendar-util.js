@@ -1,4 +1,4 @@
-import { HijriParser } from '@syncfusion/ej2-base';
+import { HijriParser } from '-syncfusion/ej2-base';
 var Gregorian = /** @class */ (function () {
     function Gregorian() {
     }

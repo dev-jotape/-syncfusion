@@ -1,6 +1,6 @@
-import { isNullOrUndefined, addClass, createElement, append, EventHandler, extend, remove } from '@syncfusion/ej2-base';
-import { ListBase } from '@syncfusion/ej2-lists';
-import { DataManager, Query } from '@syncfusion/ej2-data';
+import { isNullOrUndefined, addClass, createElement, append, EventHandler, extend, remove } from '-syncfusion/ej2-base';
+import { ListBase } from '-syncfusion/ej2-lists';
+import { DataManager, Query } from '-syncfusion/ej2-data';
 import { ViewBase } from '../renderer/view-base';
 import * as util from '../base/util';
 import * as cls from '../base/css-constant';

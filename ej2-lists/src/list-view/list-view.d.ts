@@ -1,9 +1,9 @@
 import { Virtualization } from './virtualization';
-import { ModuleDeclaration } from '@syncfusion/ej2-base';
-import { Component, BaseEventArgs } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';
-import { EmitType } from '@syncfusion/ej2-base';
-import { DataManager, Query } from '@syncfusion/ej2-data';
+import { ModuleDeclaration } from '-syncfusion/ej2-base';
+import { Component, BaseEventArgs } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
+import { DataManager, Query } from '-syncfusion/ej2-data';
 import { ListBaseOptions, SortOrder, FieldsMapping } from '../common/list-base';
 import { ListViewModel, FieldSettingsModel } from './list-view-model';
 export declare const classNames: ClassNames;

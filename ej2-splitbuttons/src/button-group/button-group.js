@@ -1,5 +1,5 @@
-import { addClass, createElement as internalCreateElement, isNullOrUndefined } from '@syncfusion/ej2-base';
-import { Button } from '@syncfusion/ej2-buttons';
+import { addClass, createElement as internalCreateElement, isNullOrUndefined } from '-syncfusion/ej2-base';
+import { Button } from '-syncfusion/ej2-buttons';
 /**
  * Initialize ButtonGroup CSS component with specified properties.
  * ```html

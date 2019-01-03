@@ -13,7 +13,7 @@ The popup components such as dialog and tooltip are used to display information 
 To install popup components and its dependent packages, use the following command
 
 ```sh
-npm install @syncfusion/ej2-popups
+npm install -syncfusion/ej2-popups
 ```
 
 ## Components Included

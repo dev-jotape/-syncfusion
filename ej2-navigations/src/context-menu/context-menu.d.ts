@@ -1,5 +1,5 @@
 /// <reference path="../common/menu-base-model.d.ts" />
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { ContextMenuModel } from './context-menu-model';
 import { MenuBase } from '../common/menu-base';
 import { MenuItemModel } from './../common/menu-base-model';

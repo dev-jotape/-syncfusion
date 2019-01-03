@@ -1,9 +1,9 @@
-import { Animation, Browser, ChildProperty, Complex, Component, Event, EventHandler, KeyboardEvents, L10n, NotifyPropertyChanges, Property, addClass, append, attributes, classList, closest, compile, createElement, detach, extend, formatUnit, getUniqueID, getValue, isNullOrUndefined, isUndefined, prepend, remove, removeClass, rippleEffect, select, setStyleAttribute, setValue } from '@syncfusion/ej2-base';
-import { DataManager, DataUtil, Predicate, Query } from '@syncfusion/ej2-data';
-import { ListBase, cssClass } from '@syncfusion/ej2-lists';
-import { Popup, createSpinner, hideSpinner, isCollide, showSpinner } from '@syncfusion/ej2-popups';
-import { Input } from '@syncfusion/ej2-inputs';
-import { createCheckBox } from '@syncfusion/ej2-buttons';
+import { Animation, Browser, ChildProperty, Complex, Component, Event, EventHandler, KeyboardEvents, L10n, NotifyPropertyChanges, Property, addClass, append, attributes, classList, closest, compile, createElement, detach, extend, formatUnit, getUniqueID, getValue, isNullOrUndefined, isUndefined, prepend, remove, removeClass, rippleEffect, select, setStyleAttribute, setValue } from '-syncfusion/ej2-base';
+import { DataManager, DataUtil, Predicate, Query } from '-syncfusion/ej2-data';
+import { ListBase, cssClass } from '-syncfusion/ej2-lists';
+import { Popup, createSpinner, hideSpinner, isCollide, showSpinner } from '-syncfusion/ej2-popups';
+import { Input } from '-syncfusion/ej2-inputs';
+import { createCheckBox } from '-syncfusion/ej2-buttons';
 
 /**
  * IncrementalSearch module file

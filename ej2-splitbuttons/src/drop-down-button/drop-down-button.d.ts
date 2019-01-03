@@ -1,8 +1,8 @@
-import { EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { Component, KeyboardEventArgs } from '@syncfusion/ej2-base';
-import { Button } from '@syncfusion/ej2-buttons';
-import { Popup } from '@syncfusion/ej2-popups';
+import { EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { Component, KeyboardEventArgs } from '-syncfusion/ej2-base';
+import { Button } from '-syncfusion/ej2-buttons';
+import { Popup } from '-syncfusion/ej2-popups';
 import { MenuEventArgs, BeforeOpenCloseMenuEventArgs, OpenCloseMenuEventArgs } from './../common/common';
 import { SplitButtonIconPosition } from './../common/common';
 import { ItemModel } from './../common/common-model';

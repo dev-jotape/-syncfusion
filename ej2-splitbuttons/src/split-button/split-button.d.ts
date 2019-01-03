@@ -1,6 +1,6 @@
 /// <reference path="../drop-down-button/drop-down-button-model.d.ts" />
-import { EmitType } from '@syncfusion/ej2-base';
-import { BaseEventArgs, INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
+import { BaseEventArgs, INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { MenuEventArgs, BeforeOpenCloseMenuEventArgs, OpenCloseMenuEventArgs } from './../common/common';
 import { SplitButtonIconPosition } from './../common/common';
 import { DropDownButton } from '../drop-down-button/drop-down-button';

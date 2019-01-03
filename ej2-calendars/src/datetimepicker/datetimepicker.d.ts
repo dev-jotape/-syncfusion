@@ -1,8 +1,8 @@
 /// <reference path="../datepicker/datepicker-model.d.ts" />
-import { EmitType } from '@syncfusion/ej2-base';
-import { L10n } from '@syncfusion/ej2-base';
-import { KeyboardEvents, KeyboardEventArgs } from '@syncfusion/ej2-base';
-import { ModuleDeclaration } from '@syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
+import { L10n } from '-syncfusion/ej2-base';
+import { KeyboardEvents, KeyboardEventArgs } from '-syncfusion/ej2-base';
+import { ModuleDeclaration } from '-syncfusion/ej2-base';
 import { DatePicker, PopupObjectArgs } from '../datepicker/datepicker';
 import { DateTimePickerModel } from './datetimepicker-model';
 /**

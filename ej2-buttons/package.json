@@ -1,5 +1,5 @@
 {
-  "name": "@syncfusion/ej2-buttons",
+  "name": "-syncfusion/ej2-buttons",
   "version": "16.4.42",
   "description": "A package of feature-rich Essential JS 2 components such as Button, CheckBox, RadioButton and Switch.",
   "author": "Syncfusion Inc.",
@@ -8,7 +8,7 @@
   "module": "./index.js",
   "es2015": "./dist/es6/ej2-buttons.es2015.js",
   "dependencies": {
-    "@syncfusion/ej2-base": "~16.4.42"
+    "-syncfusion/ej2-base": "~16.4.42"
   },
   "devDependencies": {
     "@types/chai": "^3.4.28",

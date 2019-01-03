@@ -1,4 +1,4 @@
-import { createElement, append, prepend, isNullOrUndefined, getValue, getDefaultDateObject, cldrData, addClass } from '@syncfusion/ej2-base';
+import { createElement, append, prepend, isNullOrUndefined, getValue, getDefaultDateObject, cldrData, addClass } from '-syncfusion/ej2-base';
 import { getDateInMs, addDays, resetTime, WEEK_LENGTH, getWeekFirstDate, getOuterHeight, getScrollBarWidth } from '../base/util';
 import * as cls from '../base/css-constant';
 /**

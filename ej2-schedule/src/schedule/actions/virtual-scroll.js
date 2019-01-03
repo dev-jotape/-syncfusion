@@ -1,4 +1,4 @@
-import { append, addClass, remove, isNullOrUndefined, setStyleAttribute, createElement } from '@syncfusion/ej2-base';
+import { append, addClass, remove, isNullOrUndefined, setStyleAttribute, createElement } from '-syncfusion/ej2-base';
 import * as events from '../base/constant';
 import * as cls from '../base/css-constant';
 import * as util from '../base/util';

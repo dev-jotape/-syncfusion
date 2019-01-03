@@ -1,4 +1,4 @@
-import { Ajax, extend, getValue, isNullOrUndefined, merge, setValue } from '@syncfusion/ej2-base';
+import { Ajax, extend, getValue, isNullOrUndefined, merge, setValue } from '-syncfusion/ej2-base';
 
 /**
  * Query class is used to build query which is used by the DataManager to communicate with datasource.

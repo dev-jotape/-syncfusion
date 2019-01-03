@@ -1,6 +1,6 @@
-import { Component, ChildProperty, BaseEventArgs } from '@syncfusion/ej2-base';
-import { EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { Component, ChildProperty, BaseEventArgs } from '-syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { TooltipModel, AnimationModel } from './tooltip-model';
 /**
  * Set of open modes available for Tooltip.

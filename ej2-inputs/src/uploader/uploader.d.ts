@@ -1,7 +1,7 @@
-import { Component, EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { KeyboardEventArgs, ChildProperty } from '@syncfusion/ej2-base';
-import { Ajax } from '@syncfusion/ej2-base';
+import { Component, EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { KeyboardEventArgs, ChildProperty } from '-syncfusion/ej2-base';
+import { Ajax } from '-syncfusion/ej2-base';
 import { UploaderModel, AsyncSettingsModel, ButtonsPropsModel, FilesPropModel } from './uploader-model';
 export declare class FilesProp extends ChildProperty<FilesProp> {
     /**

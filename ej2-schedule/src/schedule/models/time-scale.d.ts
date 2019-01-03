@@ -1,4 +1,4 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
+import { ChildProperty } from '-syncfusion/ej2-base';
 /**
  * A class that represents the configuration of options related to timescale on scheduler.
  */

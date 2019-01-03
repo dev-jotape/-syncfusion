@@ -11,9 +11,9 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { append, createElement, extend, EventHandler, prepend, Animation, formatUnit } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, setStyleAttribute, remove, removeClass, addClass } from '@syncfusion/ej2-base';
-import { DataManager, Query, Predicate } from '@syncfusion/ej2-data';
+import { append, createElement, extend, EventHandler, prepend, Animation, formatUnit } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, setStyleAttribute, remove, removeClass, addClass } from '-syncfusion/ej2-base';
+import { DataManager, Query, Predicate } from '-syncfusion/ej2-data';
 import { EventBase } from './event-base';
 import * as util from '../base/util';
 import * as events from '../base/constant';

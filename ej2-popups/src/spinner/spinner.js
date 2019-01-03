@@ -1,4 +1,4 @@
-import { isNullOrUndefined, classList, createElement } from '@syncfusion/ej2-base';
+import { isNullOrUndefined, classList, createElement } from '-syncfusion/ej2-base';
 var globalTimeOut = {};
 var spinTemplate = null;
 var spinCSSClass = null;

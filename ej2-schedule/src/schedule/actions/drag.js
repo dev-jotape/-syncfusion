@@ -11,8 +11,8 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { createElement, closest, Draggable, extend, formatUnit, isNullOrUndefined } from '@syncfusion/ej2-base';
-import { addClass, remove, removeClass, setStyleAttribute } from '@syncfusion/ej2-base';
+import { createElement, closest, Draggable, extend, formatUnit, isNullOrUndefined } from '-syncfusion/ej2-base';
+import { addClass, remove, removeClass, setStyleAttribute } from '-syncfusion/ej2-base';
 import { ActionBase } from '../actions/action-base';
 import * as events from '../base/constant';
 import * as util from '../base/util';

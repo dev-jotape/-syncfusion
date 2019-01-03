@@ -1,4 +1,4 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
+import { ChildProperty } from '-syncfusion/ej2-base';
 import { FieldOptionsModel } from './field-options-model';
 /**
  * A Class that holds the collection of event fields that requires to be mapped with the dataSource

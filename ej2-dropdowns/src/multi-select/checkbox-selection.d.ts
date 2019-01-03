@@ -1,6 +1,6 @@
 import { IMulitSelect } from './interface';
-import { InputObject } from '@syncfusion/ej2-inputs';
-import { KeyboardEventArgs } from '@syncfusion/ej2-base';
+import { InputObject } from '-syncfusion/ej2-inputs';
+import { KeyboardEventArgs } from '-syncfusion/ej2-base';
 /**
  * The Multiselect enable CheckBoxSelection call this inject module.
  */

@@ -18,15 +18,15 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 /// <reference path='../calendar/calendar-model.d.ts'/>
-import { Property, EventHandler, Internationalization, NotifyPropertyChanges, detach, getUniqueID } from '@syncfusion/ej2-base';
-import { KeyboardEvents, Event, Browser, L10n, ChildProperty } from '@syncfusion/ej2-base';
-import { addClass, createElement, remove, closest, select, prepend, removeClass, attributes, Collection } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, isUndefined, formatUnit, setValue, rippleEffect, merge, extend } from '@syncfusion/ej2-base';
+import { Property, EventHandler, Internationalization, NotifyPropertyChanges, detach, getUniqueID } from '-syncfusion/ej2-base';
+import { KeyboardEvents, Event, Browser, L10n, ChildProperty } from '-syncfusion/ej2-base';
+import { addClass, createElement, remove, closest, select, prepend, removeClass, attributes, Collection } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, isUndefined, formatUnit, setValue, rippleEffect, merge, extend } from '-syncfusion/ej2-base';
 import { CalendarBase } from '../calendar/calendar';
-import { Popup } from '@syncfusion/ej2-popups';
-import { Button } from '@syncfusion/ej2-buttons';
-import { Input } from '@syncfusion/ej2-inputs';
-import { ListBase, cssClass as ListBaseClasses } from '@syncfusion/ej2-lists';
+import { Popup } from '-syncfusion/ej2-popups';
+import { Button } from '-syncfusion/ej2-buttons';
+import { Input } from '-syncfusion/ej2-inputs';
+import { ListBase, cssClass as ListBaseClasses } from '-syncfusion/ej2-lists';
 var DATERANGEWRAPPER = 'e-date-range-wrapper';
 var INPUTCONTAINER = 'e-input-group';
 var DATERANGEICON = 'e-input-group-icon e-range-icon e-icons';

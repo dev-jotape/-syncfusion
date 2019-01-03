@@ -1,6 +1,6 @@
-import { Animation, ChildProperty, Collection, Complex, Component, Event, EventHandler, KeyboardEvents, NotifyPropertyChanges, Property, addClass, attributes, classList, closest, createElement, deleteObject, detach, extend, getInstance, getUniqueID, getValue, isNullOrUndefined, remove, removeClass, rippleEffect, select, setValue } from '@syncfusion/ej2-base';
-import { Button } from '@syncfusion/ej2-buttons';
-import { Popup, createSpinner, hideSpinner, showSpinner } from '@syncfusion/ej2-popups';
+import { Animation, ChildProperty, Collection, Complex, Component, Event, EventHandler, KeyboardEvents, NotifyPropertyChanges, Property, addClass, attributes, classList, closest, createElement, deleteObject, detach, extend, getInstance, getUniqueID, getValue, isNullOrUndefined, remove, removeClass, rippleEffect, select, setValue } from '-syncfusion/ej2-base';
+import { Button } from '-syncfusion/ej2-buttons';
+import { Popup, createSpinner, hideSpinner, showSpinner } from '-syncfusion/ej2-popups';
 
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;

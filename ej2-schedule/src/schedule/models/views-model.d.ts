@@ -1,4 +1,4 @@
-import { Property, ChildProperty, Complex, Collection } from '@syncfusion/ej2-base';import { View } from '../base/type';import { TimeScale } from '../models/time-scale';import { TimeScaleModel, GroupModel, HeaderRowsModel } from '../models/models';import { Group } from '../models/group';import { HeaderRows } from './header-rows';
+import { Property, ChildProperty, Complex, Collection } from '-syncfusion/ej2-base';import { View } from '../base/type';import { TimeScale } from '../models/time-scale';import { TimeScaleModel, GroupModel, HeaderRowsModel } from '../models/models';import { Group } from '../models/group';import { HeaderRows } from './header-rows';
 
 /**
  * Interface for a class Views

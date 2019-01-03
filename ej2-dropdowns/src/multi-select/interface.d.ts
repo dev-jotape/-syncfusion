@@ -1,5 +1,5 @@
-import { Component, KeyboardEventArgs } from '@syncfusion/ej2-base';
-import { Popup } from '@syncfusion/ej2-popups';
+import { Component, KeyboardEventArgs } from '-syncfusion/ej2-base';
+import { Popup } from '-syncfusion/ej2-popups';
 /**
  * Specifies mulitselct interfaces.
  * @hidden

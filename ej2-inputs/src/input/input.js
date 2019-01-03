@@ -1,4 +1,4 @@
-import { createElement, attributes, addClass, removeClass, detach, classList, closest, isNullOrUndefined } from '@syncfusion/ej2-base';
+import { createElement, attributes, addClass, removeClass, detach, classList, closest, isNullOrUndefined } from '-syncfusion/ej2-base';
 var CLASSNAMES = {
     RTL: 'e-rtl',
     DISABLE: 'e-disabled',

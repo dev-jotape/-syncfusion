@@ -1,5 +1,5 @@
-import { Component, EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { Component, EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { FloatLabelType } from '../input/input';
 import { TextBoxModel } from './textbox-model';
 export interface FocusInEventArgs {

@@ -1,7 +1,7 @@
 /**
  * Position library
  */
-import { isNullOrUndefined } from '@syncfusion/ej2-base';
+import { isNullOrUndefined } from '-syncfusion/ej2-base';
 var elementRect;
 var popupRect;
 var element;

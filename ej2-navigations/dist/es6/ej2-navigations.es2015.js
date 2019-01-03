@@ -1,9 +1,9 @@
-import { Animation, Browser, ChildProperty, Collection, Complex, Component, Draggable, Droppable, Event, EventHandler, KeyboardEvents, L10n, NotifyPropertyChanges, Property, Touch, addClass, append, attributes, classList, closest, compile, createElement, detach, formatUnit, getInstance, getUniqueID, getValue, isNullOrUndefined, isUndefined, isVisible, matches, removeClass, rippleEffect, select, selectAll, setStyleAttribute, setValue } from '@syncfusion/ej2-base';
-import { ListBase } from '@syncfusion/ej2-lists';
-import { Popup, calculatePosition, createSpinner, fit, getScrollableParent, getZindexPartial, hideSpinner, isCollide, showSpinner } from '@syncfusion/ej2-popups';
-import { Button, createCheckBox, rippleMouseHandler } from '@syncfusion/ej2-buttons';
-import { DataManager, Query } from '@syncfusion/ej2-data';
-import { Input } from '@syncfusion/ej2-inputs';
+import { Animation, Browser, ChildProperty, Collection, Complex, Component, Draggable, Droppable, Event, EventHandler, KeyboardEvents, L10n, NotifyPropertyChanges, Property, Touch, addClass, append, attributes, classList, closest, compile, createElement, detach, formatUnit, getInstance, getUniqueID, getValue, isNullOrUndefined, isUndefined, isVisible, matches, removeClass, rippleEffect, select, selectAll, setStyleAttribute, setValue } from '-syncfusion/ej2-base';
+import { ListBase } from '-syncfusion/ej2-lists';
+import { Popup, calculatePosition, createSpinner, fit, getScrollableParent, getZindexPartial, hideSpinner, isCollide, showSpinner } from '-syncfusion/ej2-popups';
+import { Button, createCheckBox, rippleMouseHandler } from '-syncfusion/ej2-buttons';
+import { DataManager, Query } from '-syncfusion/ej2-data';
+import { Input } from '-syncfusion/ej2-inputs';
 
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;

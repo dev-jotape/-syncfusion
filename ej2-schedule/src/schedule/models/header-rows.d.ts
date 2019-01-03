@@ -1,4 +1,4 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
+import { ChildProperty } from '-syncfusion/ej2-base';
 import { HeaderRowType } from '../base/type';
 /**
  * A class that represents the header rows related configurations on timeline views.

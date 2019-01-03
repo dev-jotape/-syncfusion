@@ -1,5 +1,5 @@
-import { Component, ChildProperty, INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { EmitType, BaseEventArgs } from '@syncfusion/ej2-base';
+import { Component, ChildProperty, INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { EmitType, BaseEventArgs } from '-syncfusion/ej2-base';
 import { MenuItemModel, MenuBaseModel, FieldSettingsModel, MenuAnimationSettingsModel } from './menu-base-model';
 /**
  * Menu animation effects

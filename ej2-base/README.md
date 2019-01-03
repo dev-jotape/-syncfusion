@@ -11,7 +11,7 @@ A common package of Essential JS 2 which contains base libraries, methods and cl
 To install `ej2-base`, use the following command
 
 ```sh
-npm install @syncfusion/ej2-base
+npm install -syncfusion/ej2-base
 ```
 
 ## Resources

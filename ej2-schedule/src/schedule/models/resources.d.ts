@@ -1,5 +1,5 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
-import { DataManager, Query } from '@syncfusion/ej2-data';
+import { ChildProperty } from '-syncfusion/ej2-base';
+import { DataManager, Query } from '-syncfusion/ej2-data';
 /**
  * A class that represents the resource related configurations and its data binding options.
  */

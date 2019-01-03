@@ -1,7 +1,7 @@
-import { Component, Internationalization, ModuleDeclaration } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, KeyboardEvents, L10n } from '@syncfusion/ej2-base';
-import { KeyboardEventArgs, BaseEventArgs } from '@syncfusion/ej2-base';
-import { EmitType } from '@syncfusion/ej2-base';
+import { Component, Internationalization, ModuleDeclaration } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, KeyboardEvents, L10n } from '-syncfusion/ej2-base';
+import { KeyboardEventArgs, BaseEventArgs } from '-syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
 import { CalendarModel, CalendarBaseModel } from './calendar-model';
 import { Islamic } from './index';
 /**

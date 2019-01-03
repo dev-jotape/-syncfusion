@@ -1,4 +1,4 @@
-import { FloatLabelType } from '@syncfusion/ej2-inputs';
+import { FloatLabelType } from '-syncfusion/ej2-inputs';
 /**
  * Function to create Float Label element.
  * @param overAllWrapper - overall wrapper of multiselect.

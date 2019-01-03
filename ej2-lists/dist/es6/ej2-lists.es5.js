@@ -1,6 +1,6 @@
-import { Animation, ChildProperty, Complex, Component, Event, EventHandler, NotifyPropertyChanges, Property, Touch, addClass, append, attributes, closest, compile, detach, extend, formatUnit, getValue, isNullOrUndefined, isVisible, merge, prepend, remove, removeClass, rippleEffect } from '@syncfusion/ej2-base';
-import { DataManager, Query } from '@syncfusion/ej2-data';
-import { createCheckBox } from '@syncfusion/ej2-buttons';
+import { Animation, ChildProperty, Complex, Component, Event, EventHandler, NotifyPropertyChanges, Property, Touch, addClass, append, attributes, closest, compile, detach, extend, formatUnit, getValue, isNullOrUndefined, isVisible, merge, prepend, remove, removeClass, rippleEffect } from '-syncfusion/ej2-base';
+import { DataManager, Query } from '-syncfusion/ej2-data';
+import { createCheckBox } from '-syncfusion/ej2-buttons';
 
 var cssClass = {
     li: 'e-list-item',

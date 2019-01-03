@@ -18,15 +18,15 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 ///<reference path='../datepicker/datepicker-model.d.ts'/>
-import { EventHandler, Internationalization, Property, NotifyPropertyChanges, Browser } from '@syncfusion/ej2-base';
-import { Animation, Event, cldrData, getDefaultDateObject, detach } from '@syncfusion/ej2-base';
-import { createElement, remove, addClass, L10n, removeClass, closest, append, attributes } from '@syncfusion/ej2-base';
-import { KeyboardEvents, isNullOrUndefined, formatUnit, getValue, rippleEffect } from '@syncfusion/ej2-base';
-import { Popup } from '@syncfusion/ej2-popups';
-import { Input } from '@syncfusion/ej2-inputs';
+import { EventHandler, Internationalization, Property, NotifyPropertyChanges, Browser } from '-syncfusion/ej2-base';
+import { Animation, Event, cldrData, getDefaultDateObject, detach } from '-syncfusion/ej2-base';
+import { createElement, remove, addClass, L10n, removeClass, closest, append, attributes } from '-syncfusion/ej2-base';
+import { KeyboardEvents, isNullOrUndefined, formatUnit, getValue, rippleEffect } from '-syncfusion/ej2-base';
+import { Popup } from '-syncfusion/ej2-popups';
+import { Input } from '-syncfusion/ej2-inputs';
 import { DatePicker } from '../datepicker/datepicker';
 import { TimePickerBase } from '../timepicker/timepicker';
-import { cssClass as ListBaseClasses } from '@syncfusion/ej2-lists';
+import { cssClass as ListBaseClasses } from '-syncfusion/ej2-lists';
 //class constant defination
 var DATEWRAPPER = 'e-date-wrapper';
 var DATEPICKERROOT = 'e-datepicker';

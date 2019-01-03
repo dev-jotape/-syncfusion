@@ -1,12 +1,12 @@
 /// <reference path="../combo-box/combo-box-model.d.ts" />
-import { KeyboardEventArgs } from '@syncfusion/ej2-base';
-import { EmitType } from '@syncfusion/ej2-base';
+import { KeyboardEventArgs } from '-syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
 import { ComboBox } from '../combo-box/combo-box';
 import { AutoCompleteModel } from '../auto-complete/auto-complete-model';
 import { FieldSettingsModel } from '../drop-down-base/drop-down-base-model';
 import { FilteringEventArgs } from '../drop-down-base/drop-down-base';
-import { FloatLabelType } from '@syncfusion/ej2-inputs';
-import { Query } from '@syncfusion/ej2-data';
+import { FloatLabelType } from '-syncfusion/ej2-inputs';
+import { Query } from '-syncfusion/ej2-data';
 export declare type FilterType = 'Contains' | 'StartsWith' | 'EndsWith';
 /**
  * The AutoComplete component provides the matched suggestion list when type into the input,

@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { createElement, addClass, formatUnit, remove } from '@syncfusion/ej2-base';
+import { createElement, addClass, formatUnit, remove } from '-syncfusion/ej2-base';
 import { AgendaBase } from '../event-renderer/agenda-base';
 import { Month } from './month';
 import * as util from '../base/util';

@@ -11,8 +11,8 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { compile, isNullOrUndefined, extend, EventHandler, formatUnit, Browser } from '@syncfusion/ej2-base';
-import { createElement, remove, addClass, removeClass, append, prepend } from '@syncfusion/ej2-base';
+import { compile, isNullOrUndefined, extend, EventHandler, formatUnit, Browser } from '-syncfusion/ej2-base';
+import { createElement, remove, addClass, removeClass, append, prepend } from '-syncfusion/ej2-base';
 import { WorkCellInteraction } from '../actions/work-cells';
 import { ViewBase } from './view-base';
 import { VerticalEvent } from '../event-renderer/vertical-view';

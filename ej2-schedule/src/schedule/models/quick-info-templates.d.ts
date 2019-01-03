@@ -1,4 +1,4 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
+import { ChildProperty } from '-syncfusion/ej2-base';
 /**
  * A class that defines the template options available to customize the quick popup of scheduler.
  */

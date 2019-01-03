@@ -1,12 +1,12 @@
-import { Animation, Browser, ChildProperty, Collection, Complex, Component, Draggable, Event, EventHandler, HijriParser, Internationalization, KeyboardEvents, L10n, NotifyPropertyChanges, Property, Touch, addClass, append, classList, cldrData, closest, compile, createElement, extend, formatUnit, getDefaultDateObject, getValue, isNullOrUndefined, prepend, remove, removeClass, setStyleAttribute, uniqueID } from '@syncfusion/ej2-base';
-import { Dialog, Popup, Tooltip, createSpinner, hideSpinner, isCollide, showSpinner } from '@syncfusion/ej2-popups';
-import { Toolbar, TreeView } from '@syncfusion/ej2-navigations';
-import { Calendar, DatePicker, DateTimePicker } from '@syncfusion/ej2-calendars';
-import { DataManager, Predicate, Query } from '@syncfusion/ej2-data';
-import { Button, CheckBox, RadioButton } from '@syncfusion/ej2-buttons';
-import { FormValidator, Input, NumericTextBox } from '@syncfusion/ej2-inputs';
-import { DropDownList, MultiSelect } from '@syncfusion/ej2-dropdowns';
-import { ListBase } from '@syncfusion/ej2-lists';
+import { Animation, Browser, ChildProperty, Collection, Complex, Component, Draggable, Event, EventHandler, HijriParser, Internationalization, KeyboardEvents, L10n, NotifyPropertyChanges, Property, Touch, addClass, append, classList, cldrData, closest, compile, createElement, extend, formatUnit, getDefaultDateObject, getValue, isNullOrUndefined, prepend, remove, removeClass, setStyleAttribute, uniqueID } from '-syncfusion/ej2-base';
+import { Dialog, Popup, Tooltip, createSpinner, hideSpinner, isCollide, showSpinner } from '-syncfusion/ej2-popups';
+import { Toolbar, TreeView } from '-syncfusion/ej2-navigations';
+import { Calendar, DatePicker, DateTimePicker } from '-syncfusion/ej2-calendars';
+import { DataManager, Predicate, Query } from '-syncfusion/ej2-data';
+import { Button, CheckBox, RadioButton } from '-syncfusion/ej2-buttons';
+import { FormValidator, Input, NumericTextBox } from '-syncfusion/ej2-inputs';
+import { DropDownList, MultiSelect } from '-syncfusion/ej2-dropdowns';
+import { ListBase } from '-syncfusion/ej2-lists';
 
 /**
  * Constants

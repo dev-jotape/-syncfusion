@@ -11,8 +11,8 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { append, prepend, createElement, extend, EventHandler, closest, addClass } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, setStyleAttribute, remove } from '@syncfusion/ej2-base';
+import { append, prepend, createElement, extend, EventHandler, closest, addClass } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, setStyleAttribute, remove } from '-syncfusion/ej2-base';
 import { EventBase } from './event-base';
 import * as cls from '../base/css-constant';
 import * as events from '../base/constant';

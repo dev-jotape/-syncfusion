@@ -1,5 +1,5 @@
-import { createElement, remove } from '@syncfusion/ej2-base';
-import { FormValidator } from '@syncfusion/ej2-inputs';
+import { createElement, remove } from '-syncfusion/ej2-base';
+import { FormValidator } from '-syncfusion/ej2-inputs';
 import * as cls from '../base/css-constant';
 /**
  * Appointment window field validation

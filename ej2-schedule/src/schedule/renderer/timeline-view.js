@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { isNullOrUndefined, createElement, prepend, extend, formatUnit, append } from '@syncfusion/ej2-base';
+import { isNullOrUndefined, createElement, prepend, extend, formatUnit, append } from '-syncfusion/ej2-base';
 import { VerticalView } from './vertical-view';
 import { TimelineEvent } from '../event-renderer/timeline-view';
 import * as cls from '../base/css-constant';

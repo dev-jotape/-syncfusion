@@ -2,7 +2,7 @@
  * Collision module.
  */
 import { calculatePosition } from './position';
-import { isNullOrUndefined } from '@syncfusion/ej2-base';
+import { isNullOrUndefined } from '-syncfusion/ej2-base';
 var parentDocument;
 var targetContainer;
 export function fit(element, viewPortElement, axis, position) {

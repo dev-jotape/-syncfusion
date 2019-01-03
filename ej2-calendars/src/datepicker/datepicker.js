@@ -18,12 +18,12 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 /// <reference path='../calendar/calendar-model.d.ts'/>
-import { EventHandler, Property, Internationalization, NotifyPropertyChanges } from '@syncfusion/ej2-base';
-import { KeyboardEvents, Animation, Event, L10n, Browser, formatUnit } from '@syncfusion/ej2-base';
-import { detach, addClass, removeClass, closest, attributes } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, setValue, getUniqueID } from '@syncfusion/ej2-base';
-import { Popup } from '@syncfusion/ej2-popups';
-import { Input } from '@syncfusion/ej2-inputs';
+import { EventHandler, Property, Internationalization, NotifyPropertyChanges } from '-syncfusion/ej2-base';
+import { KeyboardEvents, Animation, Event, L10n, Browser, formatUnit } from '-syncfusion/ej2-base';
+import { detach, addClass, removeClass, closest, attributes } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, setValue, getUniqueID } from '-syncfusion/ej2-base';
+import { Popup } from '-syncfusion/ej2-popups';
+import { Input } from '-syncfusion/ej2-inputs';
 import { Calendar } from '../calendar/calendar';
 //class constant defination
 var DATEWRAPPER = 'e-date-wrapper';

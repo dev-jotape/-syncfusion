@@ -1,7 +1,7 @@
-import { RecurrenceEditor, Schedule } from '@syncfusion/ej2-schedule';
+import { RecurrenceEditor, Schedule } from '-syncfusion/ej2-schedule';
 import Vue from 'vue';
-import { ComponentBase, EJComponentDecorator } from '@syncfusion/ej2-vue-base';
-import { isUndefined } from '@syncfusion/ej2-base';
+import { ComponentBase, EJComponentDecorator } from '-syncfusion/ej2-vue-base';
+import { isUndefined } from '-syncfusion/ej2-base';
 
 var __extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
@@ -562,5 +562,5 @@ var RecurrenceEditorPlugin = {
 };
 
 export { ViewsDirective, ViewDirective, ViewsPlugin, ViewPlugin, ResourcesDirective, ResourceDirective, ResourcesPlugin, ResourcePlugin, HeaderRowsDirective, HeaderRowDirective, HeaderRowsPlugin, HeaderRowPlugin, ScheduleComponent, SchedulePlugin, RecurrenceEditorComponent, RecurrenceEditorPlugin };
-export * from '@syncfusion/ej2-schedule';
+export * from '-syncfusion/ej2-schedule';
 //# sourceMappingURL=ej2-vue-schedule.es5.js.map

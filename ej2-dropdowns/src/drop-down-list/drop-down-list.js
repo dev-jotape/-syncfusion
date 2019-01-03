@@ -18,16 +18,16 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 /// <reference path='../drop-down-base/drop-down-base-model.d.ts'/>
-import { EventHandler, Property, Event, compile, KeyboardEvents, append, extend } from '@syncfusion/ej2-base';
-import { attributes, isNullOrUndefined, getUniqueID, formatUnit, isUndefined, getValue } from '@syncfusion/ej2-base';
-import { Animation, Browser, NotifyPropertyChanges } from '@syncfusion/ej2-base';
-import { addClass, removeClass, setStyleAttribute, closest, prepend, detach, classList } from '@syncfusion/ej2-base';
-import { Popup, isCollide, createSpinner, showSpinner, hideSpinner } from '@syncfusion/ej2-popups';
-import { Input } from '@syncfusion/ej2-inputs';
+import { EventHandler, Property, Event, compile, KeyboardEvents, append, extend } from '-syncfusion/ej2-base';
+import { attributes, isNullOrUndefined, getUniqueID, formatUnit, isUndefined, getValue } from '-syncfusion/ej2-base';
+import { Animation, Browser, NotifyPropertyChanges } from '-syncfusion/ej2-base';
+import { addClass, removeClass, setStyleAttribute, closest, prepend, detach, classList } from '-syncfusion/ej2-base';
+import { Popup, isCollide, createSpinner, showSpinner, hideSpinner } from '-syncfusion/ej2-popups';
+import { Input } from '-syncfusion/ej2-inputs';
 import { incrementalSearch } from '../common/incremental-search';
 import { DropDownBase, dropDownBaseClasses } from '../drop-down-base/drop-down-base';
 /* tslint:disable */
-import { DataManager, Query } from '@syncfusion/ej2-data';
+import { DataManager, Query } from '-syncfusion/ej2-data';
 // don't use space in classnames 
 export var dropDownListClasses = {
     root: 'e-dropdownlist',

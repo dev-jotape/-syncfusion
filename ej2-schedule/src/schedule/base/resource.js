@@ -1,7 +1,7 @@
-import { extend, isNullOrUndefined, createElement, EventHandler, addClass, append, removeClass, remove, closest, classList } from '@syncfusion/ej2-base';
-import { DataManager, Query } from '@syncfusion/ej2-data';
-import { TreeView } from '@syncfusion/ej2-navigations';
-import { Popup } from '@syncfusion/ej2-popups';
+import { extend, isNullOrUndefined, createElement, EventHandler, addClass, append, removeClass, remove, closest, classList } from '-syncfusion/ej2-base';
+import { DataManager, Query } from '-syncfusion/ej2-data';
+import { TreeView } from '-syncfusion/ej2-navigations';
+import { Popup } from '-syncfusion/ej2-popups';
 import { Data } from '../actions/data';
 import * as cls from '../base/css-constant';
 import * as events from '../base/constant';

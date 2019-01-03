@@ -17,13 +17,13 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { setStyleAttribute, addClass, removeClass, ChildProperty, Complex } from '@syncfusion/ej2-base';
-import { isNullOrUndefined, formatUnit } from '@syncfusion/ej2-base';
-import { Browser } from '@syncfusion/ej2-base';
+import { setStyleAttribute, addClass, removeClass, ChildProperty, Complex } from '-syncfusion/ej2-base';
+import { isNullOrUndefined, formatUnit } from '-syncfusion/ej2-base';
+import { Browser } from '-syncfusion/ej2-base';
 import { calculatePosition, calculateRelativeBasedPosition } from '../common/position';
-import { Animation, Property, Event, Component } from '@syncfusion/ej2-base';
-import { NotifyPropertyChanges } from '@syncfusion/ej2-base';
-import { EventHandler } from '@syncfusion/ej2-base';
+import { Animation, Property, Event, Component } from '-syncfusion/ej2-base';
+import { NotifyPropertyChanges } from '-syncfusion/ej2-base';
+import { EventHandler } from '-syncfusion/ej2-base';
 import { flip, fit, isCollide } from '../common/collision';
 /**
  * Specifies the offset position values.

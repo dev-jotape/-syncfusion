@@ -1,8 +1,8 @@
 /// <reference path="../calendar/calendar-model.d.ts" />
-import { KeyboardEventArgs, EmitType, L10n } from '@syncfusion/ej2-base';
-import { ModuleDeclaration } from '@syncfusion/ej2-base';
-import { Popup } from '@syncfusion/ej2-popups';
-import { InputObject, IInput, FloatLabelType, BlurEventArgs, FocusEventArgs } from '@syncfusion/ej2-inputs';
+import { KeyboardEventArgs, EmitType, L10n } from '-syncfusion/ej2-base';
+import { ModuleDeclaration } from '-syncfusion/ej2-base';
+import { Popup } from '-syncfusion/ej2-popups';
+import { InputObject, IInput, FloatLabelType, BlurEventArgs, FocusEventArgs } from '-syncfusion/ej2-inputs';
 import { ChangedEventArgs, CalendarView, Calendar } from '../calendar/calendar';
 import { DatePickerModel } from './datepicker-model';
 /**

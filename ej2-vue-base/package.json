@@ -1,5 +1,5 @@
 {
-  "name": "@syncfusion/ej2-vue-base",
+  "name": "-syncfusion/ej2-vue-base",
   "version": "16.4.42",
   "description": "A common package of Essential JS 2 base Vue libraries, methods and class definitions",
   "author": "Syncfusion Inc.",
@@ -24,7 +24,7 @@
   "module": "./index.js",
   "readme": "ReadMe.md",
   "dependencies": {
-    "@syncfusion/ej2-base": "16.4.42",
+    "-syncfusion/ej2-base": "16.4.42",
     "vue": "^2.5.2"
   },
   "devDependencies": {

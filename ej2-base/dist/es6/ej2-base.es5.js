@@ -6744,7 +6744,7 @@ var KeyboardEvents = /** @__PURE__ @class */ (function (_super) {
 /**
  * L10n modules provides localized text for different culture.
  * ```typescript
- * import {setCulture} from '@syncfusion/ts-base-library';
+ * import {setCulture} from '-syncfusion/ts-base-library';
  * //load global locale object common for all components.
  * L10n.load({
  *    'fr-BE': {

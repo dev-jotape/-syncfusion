@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import { setTemplateEngine, getTemplateEngine, getUniqueID, createElement, detach, extend } from "@syncfusion/ej2-base";
+import { setTemplateEngine, getTemplateEngine, getUniqueID, createElement, detach, extend } from "-syncfusion/ej2-base";
 // tslint:disable:no-any
 var stringCompiler = getTemplateEngine();
 export function compile(templateElement, helper) {

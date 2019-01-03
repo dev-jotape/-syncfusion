@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { isNullOrUndefined, setStyleAttribute, extend, EventHandler, createElement } from '@syncfusion/ej2-base';
+import { isNullOrUndefined, setStyleAttribute, extend, EventHandler, createElement } from '-syncfusion/ej2-base';
 import * as cls from '../base/css-constant';
 import * as util from '../base/util';
 import { MonthEvent } from './month';

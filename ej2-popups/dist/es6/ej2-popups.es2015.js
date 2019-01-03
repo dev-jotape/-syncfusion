@@ -1,5 +1,5 @@
-import { Animation, Browser, ChildProperty, Collection, Complex, Component, Draggable, Event, EventHandler, L10n, NotifyPropertyChanges, Property, Touch, addClass, append, attributes, classList, closest, compile, createElement, detach, formatUnit, getUniqueID, isNullOrUndefined, prepend, remove, removeClass, setStyleAttribute } from '@syncfusion/ej2-base';
-import { Button } from '@syncfusion/ej2-buttons';
+import { Animation, Browser, ChildProperty, Collection, Complex, Component, Draggable, Event, EventHandler, L10n, NotifyPropertyChanges, Property, Touch, addClass, append, attributes, classList, closest, compile, createElement, detach, formatUnit, getUniqueID, isNullOrUndefined, prepend, remove, removeClass, setStyleAttribute } from '-syncfusion/ej2-base';
+import { Button } from '-syncfusion/ej2-buttons';
 
 /**
  * Position library

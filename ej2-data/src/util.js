@@ -1,4 +1,4 @@
-import { isNullOrUndefined } from '@syncfusion/ej2-base';
+import { isNullOrUndefined } from '-syncfusion/ej2-base';
 import { DataManager } from './manager';
 import { Query } from './query';
 var consts = { GroupGuid: '{271bbba0-1ee7}' };

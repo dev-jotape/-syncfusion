@@ -1,6 +1,6 @@
-import { Component, EmitType } from '@syncfusion/ej2-base';
-import { BaseEventArgs, Effect } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';
+import { Component, EmitType } from '-syncfusion/ej2-base';
+import { BaseEventArgs, Effect } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';
 import { AccordionModel, AccordionItemModel, AccordionAnimationSettingsModel, AccordionActionSettingsModel } from './accordion-model';
 /**
  * Specifies the option to expand single or multiple panel at a time.

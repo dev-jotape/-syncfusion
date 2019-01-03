@@ -1,6 +1,6 @@
-import { Component, EventHandler, Property, Event, EmitType, AnimationModel, KeyboardEvents, rippleEffect } from '@syncfusion/ej2-base';import { KeyboardEventArgs, BaseEventArgs, Effect, getUniqueID, compile as templateCompiler } from '@syncfusion/ej2-base';import { addClass, isVisible, closest, attributes, classList, detach, select } from '@syncfusion/ej2-base';import { INotifyPropertyChanged, NotifyPropertyChanges, ChildProperty, Collection, Animation } from '@syncfusion/ej2-base';import { setStyleAttribute as setStyle, Complex  } from '@syncfusion/ej2-base';import { isNullOrUndefined as isNOU, formatUnit, selectAll } from '@syncfusion/ej2-base';
+import { Component, EventHandler, Property, Event, EmitType, AnimationModel, KeyboardEvents, rippleEffect } from '-syncfusion/ej2-base';import { KeyboardEventArgs, BaseEventArgs, Effect, getUniqueID, compile as templateCompiler } from '-syncfusion/ej2-base';import { addClass, isVisible, closest, attributes, classList, detach, select } from '-syncfusion/ej2-base';import { INotifyPropertyChanged, NotifyPropertyChanges, ChildProperty, Collection, Animation } from '-syncfusion/ej2-base';import { setStyleAttribute as setStyle, Complex  } from '-syncfusion/ej2-base';import { isNullOrUndefined as isNOU, formatUnit, selectAll } from '-syncfusion/ej2-base';
 import {ExpandMode,AccordionClickArgs,ExpandEventArgs} from "./accordion";
-import {ComponentModel} from '@syncfusion/ej2-base';
+import {ComponentModel} from '-syncfusion/ej2-base';
 
 /**
  * Interface for a class AccordionActionSettings

@@ -1,7 +1,7 @@
-import { Component, EmitType } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';
-import { Effect } from '@syncfusion/ej2-base';
-import { BaseEventArgs } from '@syncfusion/ej2-base';
+import { Component, EmitType } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';
+import { Effect } from '-syncfusion/ej2-base';
+import { BaseEventArgs } from '-syncfusion/ej2-base';
 import { OverflowMode } from '../toolbar/toolbar';
 import { TabModel, TabItemModel, HeaderModel, TabActionSettingsModel, TabAnimationSettingsModel } from './tab-model';
 declare type HTEle = HTMLElement;

@@ -1,4 +1,4 @@
-import { Query } from '@syncfusion/ej2-data';
+import { Query } from '-syncfusion/ej2-data';
 export declare let cssClass: ClassList;
 export interface ClassList {
     li: string;

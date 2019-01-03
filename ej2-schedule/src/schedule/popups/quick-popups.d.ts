@@ -1,4 +1,4 @@
-import { Dialog, Popup } from '@syncfusion/ej2-popups';
+import { Dialog, Popup } from '-syncfusion/ej2-popups';
 import { Schedule } from '../base/schedule';
 import { EventClickArgs } from '../base/interface';
 /**

@@ -1,5 +1,5 @@
 {
-  "name": "@syncfusion/ej2-dropdowns",
+  "name": "-syncfusion/ej2-dropdowns",
   "version": "16.4.44",
   "description": "Essential JS 2 DropDown Components",
   "author": "Syncfusion Inc.",
@@ -8,11 +8,11 @@
   "module": "./index.js",
   "es2015": "./dist/es6/ej2-dropdowns.es2015.js",
   "dependencies": {
-    "@syncfusion/ej2-base": "~16.4.42",
-    "@syncfusion/ej2-data": "~16.4.42",
-    "@syncfusion/ej2-inputs": "~16.4.44",
-    "@syncfusion/ej2-lists": "~16.4.44",
-    "@syncfusion/ej2-popups": "~16.4.44"
+    "-syncfusion/ej2-base": "~16.4.42",
+    "-syncfusion/ej2-data": "~16.4.42",
+    "-syncfusion/ej2-inputs": "~16.4.44",
+    "-syncfusion/ej2-lists": "~16.4.44",
+    "-syncfusion/ej2-popups": "~16.4.44"
   },
   "devDependencies": {
     "@types/chai": "^3.4.28",

@@ -13,7 +13,7 @@ A package of Syncfusion JavaScript UI Components (Essential JS 2) DropDownButton
 To install `SplitButtons` and its dependent packages, use the following command
 
 ```sh
-npm install @syncfusion/ej2-splitbuttons
+npm install -syncfusion/ej2-splitbuttons
 ```
 
 ## Components included

@@ -1,5 +1,5 @@
-import { Component, INotifyPropertyChanged } from '@syncfusion/ej2-base';
-import { EmitType } from '@syncfusion/ej2-base';
+import { Component, INotifyPropertyChanged } from '-syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
 import { SwitchModel } from './switch-model';
 import { ChangeEventArgs } from './../common/common';
 /**

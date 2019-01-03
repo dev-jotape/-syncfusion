@@ -1,6 +1,6 @@
-import { Animation, ChildProperty, Collection, Complex, Component, Event, EventHandler, KeyboardEvents, NotifyPropertyChanges, Property, addClass, attributes, classList, closest, createElement, deleteObject, detach, extend, getInstance, getUniqueID, getValue, isNullOrUndefined, remove, removeClass, rippleEffect, select, setValue } from '@syncfusion/ej2-base';
-import { Button } from '@syncfusion/ej2-buttons';
-import { Popup, createSpinner, hideSpinner, showSpinner } from '@syncfusion/ej2-popups';
+import { Animation, ChildProperty, Collection, Complex, Component, Event, EventHandler, KeyboardEvents, NotifyPropertyChanges, Property, addClass, attributes, classList, closest, createElement, deleteObject, detach, extend, getInstance, getUniqueID, getValue, isNullOrUndefined, remove, removeClass, rippleEffect, select, setValue } from '-syncfusion/ej2-base';
+import { Button } from '-syncfusion/ej2-buttons';
+import { Popup, createSpinner, hideSpinner, showSpinner } from '-syncfusion/ej2-popups';
 
 var __extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {

@@ -1,5 +1,5 @@
 import { classNames } from './list-view';
-import { EventHandler, append, isNullOrUndefined, detach, removeClass, addClass } from '@syncfusion/ej2-base';
+import { EventHandler, append, isNullOrUndefined, detach, removeClass, addClass } from '-syncfusion/ej2-base';
 import { ListBase } from '../common/list-base';
 var Virtualization = /** @class */ (function () {
     function Virtualization(instance) {

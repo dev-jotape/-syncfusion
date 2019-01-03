@@ -1,4 +1,4 @@
-import { Property, ChildProperty } from '@syncfusion/ej2-base';import { DataManager, Query } from '@syncfusion/ej2-data';
+import { Property, ChildProperty } from '-syncfusion/ej2-base';import { DataManager, Query } from '-syncfusion/ej2-data';
 
 /**
  * Interface for a class Resources

@@ -1,5 +1,5 @@
 import { DataManager } from './manager';
-import { NumberFormatOptions, DateFormatOptions } from '@syncfusion/ej2-base';
+import { NumberFormatOptions, DateFormatOptions } from '-syncfusion/ej2-base';
 /**
  * Query class is used to build query which is used by the DataManager to communicate with datasource.
  */

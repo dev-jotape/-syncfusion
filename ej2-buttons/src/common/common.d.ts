@@ -1,4 +1,4 @@
-import { BaseEventArgs } from '@syncfusion/ej2-base';
+import { BaseEventArgs } from '-syncfusion/ej2-base';
 import { CheckBox } from '../check-box';
 import { Switch } from '../switch';
 /**

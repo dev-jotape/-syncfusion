@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { EventHandler, createElement, formatUnit } from '@syncfusion/ej2-base';
+import { EventHandler, createElement, formatUnit } from '-syncfusion/ej2-base';
 import { Month } from './month';
 import { TimelineEvent } from '../event-renderer/timeline-view';
 import * as util from '../base/util';

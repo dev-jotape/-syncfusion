@@ -1,5 +1,5 @@
-import { isNullOrUndefined } from '@syncfusion/ej2-base';
-import { Query, DataManager, Predicate } from '@syncfusion/ej2-data';
+import { isNullOrUndefined } from '-syncfusion/ej2-base';
+import { Query, DataManager, Predicate } from '-syncfusion/ej2-data';
 import { getRecurrenceStringFromDate } from '../../recurrence-editor/date-generator';
 import * as events from '../base/constant';
 import { Timezone } from '../timezone/timezone';

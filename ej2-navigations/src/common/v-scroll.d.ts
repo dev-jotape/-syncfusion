@@ -1,5 +1,5 @@
-import { Component } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { Component } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { VScrollModel } from './v-scroll-model';
 /**
  * VScroll module is introduces vertical scroller when content exceeds the current viewing area.

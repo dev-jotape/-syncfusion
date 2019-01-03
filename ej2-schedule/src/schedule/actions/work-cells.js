@@ -1,4 +1,4 @@
-import { extend, closest, isNullOrUndefined } from '@syncfusion/ej2-base';
+import { extend, closest, isNullOrUndefined } from '-syncfusion/ej2-base';
 import * as event from '../base/constant';
 import * as cls from '../base/css-constant';
 /**

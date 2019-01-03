@@ -1,4 +1,4 @@
-import { Property, ChildProperty, Complex } from '@syncfusion/ej2-base';import { Query, DataManager } from '@syncfusion/ej2-data';import { Field } from './fields';import { FieldModel } from './fields-model';
+import { Property, ChildProperty, Complex } from '-syncfusion/ej2-base';import { Query, DataManager } from '-syncfusion/ej2-data';import { Field } from './fields';import { FieldModel } from './fields-model';
 
 /**
  * Interface for a class EventSettings

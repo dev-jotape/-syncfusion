@@ -1,5 +1,5 @@
-import { INotifyPropertyChanged, Component } from '@syncfusion/ej2-base';
-import { EmitType } from '@syncfusion/ej2-base';
+import { INotifyPropertyChanged, Component } from '-syncfusion/ej2-base';
+import { EmitType } from '-syncfusion/ej2-base';
 import { ButtonModel } from './button-model';
 export declare type IconPosition = 'Left' | 'Right' | 'Top' | 'Bottom';
 /**

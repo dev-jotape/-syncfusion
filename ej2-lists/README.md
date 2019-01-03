@@ -13,7 +13,7 @@ The listview control allows you to select an item or multiple items from a list-
 To install `Lists` and its dependent packages, use the following command.
 
 ```sh
-npm install @syncfusion/ej2-lists
+npm install -syncfusion/ej2-lists
 ```
 
 ## Resources

@@ -1,4 +1,4 @@
-import { Property, ChildProperty } from '@syncfusion/ej2-base';import { HeaderRowType } from '../base/type';
+import { Property, ChildProperty } from '-syncfusion/ej2-base';import { HeaderRowType } from '../base/type';
 
 /**
  * Interface for a class HeaderRows

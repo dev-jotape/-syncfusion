@@ -1,9 +1,9 @@
-import { Internationalization } from '@syncfusion/ej2-base';
-import { KeyboardEvents, KeyboardEventArgs, BaseEventArgs } from '@syncfusion/ej2-base';
-import { EmitType, Component } from '@syncfusion/ej2-base';
-import { Popup } from '@syncfusion/ej2-popups';
-import { IInput, FloatLabelType, FocusEventArgs, BlurEventArgs } from '@syncfusion/ej2-inputs';
-import { createElementParams } from '@syncfusion/ej2-lists';
+import { Internationalization } from '-syncfusion/ej2-base';
+import { KeyboardEvents, KeyboardEventArgs, BaseEventArgs } from '-syncfusion/ej2-base';
+import { EmitType, Component } from '-syncfusion/ej2-base';
+import { Popup } from '-syncfusion/ej2-popups';
+import { IInput, FloatLabelType, FocusEventArgs, BlurEventArgs } from '-syncfusion/ej2-inputs';
+import { createElementParams } from '-syncfusion/ej2-lists';
 import { TimePickerModel } from './timepicker-model';
 export interface ChangeEventArgs {
     /** Defines the boolean that returns true when the value is changed by user interaction, otherwise returns false. */

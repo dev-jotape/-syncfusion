@@ -1,7 +1,7 @@
 /**
  * Resize library
  */
-import { isNullOrUndefined, createElement, EventHandler, detach, Browser } from '@syncfusion/ej2-base';
+import { isNullOrUndefined, createElement, EventHandler, detach, Browser } from '-syncfusion/ej2-base';
 var elementClass = ['north-west', 'north', 'north-east', 'west', 'east', 'south-west', 'south', 'south-east'];
 var targetElement;
 var selectedHandler;

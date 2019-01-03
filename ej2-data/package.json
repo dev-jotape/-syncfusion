@@ -1,5 +1,5 @@
 {
-  "name": "@syncfusion/ej2-data",
+  "name": "-syncfusion/ej2-data",
   "version": "16.4.42",
   "description": "Essential JS 2 DataManager",
   "author": "Syncfusion Inc.",
@@ -8,7 +8,7 @@
   "module": "./index.js",
   "es2015": "./dist/es6/ej2-data.es2015.js",
   "dependencies": {
-    "@syncfusion/ej2-base": "~16.4.42"
+    "-syncfusion/ej2-base": "~16.4.42"
   },
   "devDependencies": {
     "@types/chai": "^3.4.28",

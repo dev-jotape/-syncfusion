@@ -76,7 +76,7 @@ exports.config = {
                     }
                 }
             }
-            ccMail.push("ej2core@syncfusion.com");
+            ccMail.push("ej2core-syncfusion.com");
             var data = {
                 RepositoryName: currentRepo,
                 ComponentName: components,

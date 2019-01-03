@@ -17,14 +17,14 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { merge, formatUnit, isNullOrUndefined, append, detach } from '@syncfusion/ej2-base';
-import { attributes, addClass, removeClass, prepend, closest, remove } from '@syncfusion/ej2-base';
-import { Component, EventHandler, Property, Complex, Event } from '@syncfusion/ej2-base';
-import { NotifyPropertyChanges, ChildProperty } from '@syncfusion/ej2-base';
-import { compile } from '@syncfusion/ej2-base';
-import { Animation, rippleEffect, Touch } from '@syncfusion/ej2-base';
-import { DataManager, Query } from '@syncfusion/ej2-data';
-import { createCheckBox } from '@syncfusion/ej2-buttons';
+import { merge, formatUnit, isNullOrUndefined, append, detach } from '-syncfusion/ej2-base';
+import { attributes, addClass, removeClass, prepend, closest, remove } from '-syncfusion/ej2-base';
+import { Component, EventHandler, Property, Complex, Event } from '-syncfusion/ej2-base';
+import { NotifyPropertyChanges, ChildProperty } from '-syncfusion/ej2-base';
+import { compile } from '-syncfusion/ej2-base';
+import { Animation, rippleEffect, Touch } from '-syncfusion/ej2-base';
+import { DataManager, Query } from '-syncfusion/ej2-data';
+import { createCheckBox } from '-syncfusion/ej2-buttons';
 import { ListBase, getFieldValues } from '../common/list-base';
 // Effect Configuration Effect[] =  [fromViewBackward,fromViewForward,toViewBackward,toviewForward];
 var effectsConfig = {

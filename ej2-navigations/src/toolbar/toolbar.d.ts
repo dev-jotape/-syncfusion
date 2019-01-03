@@ -1,5 +1,5 @@
-import { Component, EmitType, BaseEventArgs } from '@syncfusion/ej2-base';
-import { INotifyPropertyChanged, ChildProperty } from '@syncfusion/ej2-base';
+import { Component, EmitType, BaseEventArgs } from '-syncfusion/ej2-base';
+import { INotifyPropertyChanged, ChildProperty } from '-syncfusion/ej2-base';
 import { ToolbarModel, ItemModel } from './toolbar-model';
 /**
  * Specifies the options for supporting element types of Toolbar command.

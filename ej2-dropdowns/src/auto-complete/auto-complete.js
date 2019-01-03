@@ -18,17 +18,17 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 /// <reference path='../combo-box/combo-box-model.d.ts'/>
-import { Property, EventHandler, isNullOrUndefined, detach } from '@syncfusion/ej2-base';
-import { Event, Complex } from '@syncfusion/ej2-base';
-import { removeClass, attributes, NotifyPropertyChanges } from '@syncfusion/ej2-base';
+import { Property, EventHandler, isNullOrUndefined, detach } from '-syncfusion/ej2-base';
+import { Event, Complex } from '-syncfusion/ej2-base';
+import { removeClass, attributes, NotifyPropertyChanges } from '-syncfusion/ej2-base';
 import { dropDownListClasses } from '../drop-down-list/drop-down-list';
 import { ComboBox } from '../combo-box/combo-box';
 import { highlightSearch } from '../common/highlight-search';
 import { Search } from '../common/incremental-search';
 import { FieldSettings } from '../drop-down-base/drop-down-base';
 /* tslint:disable */
-import { Input } from '@syncfusion/ej2-inputs';
-import { DataManager, Query } from '@syncfusion/ej2-data';
+import { Input } from '-syncfusion/ej2-inputs';
+import { DataManager, Query } from '-syncfusion/ej2-data';
 /* tslint:enable */
 dropDownListClasses.root = 'e-autocomplete';
 dropDownListClasses.icon = 'e-input-group-icon e-ddl-icon e-search-icon';

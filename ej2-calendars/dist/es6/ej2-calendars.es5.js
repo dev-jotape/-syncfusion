@@ -1,8 +1,8 @@
-import { Animation, Browser, ChildProperty, Collection, Component, Event, EventHandler, HijriParser, Internationalization, KeyboardEvents, L10n, NotifyPropertyChanges, Property, addClass, append, attributes, cldrData, closest, createElement, detach, extend, formatUnit, getDefaultDateObject, getUniqueID, getValue, isNullOrUndefined, isUndefined, merge, prepend, remove, removeClass, rippleEffect, select, setStyleAttribute, setValue, throwError } from '@syncfusion/ej2-base';
-import { Popup } from '@syncfusion/ej2-popups';
-import { Input } from '@syncfusion/ej2-inputs';
-import { Button } from '@syncfusion/ej2-buttons';
-import { ListBase, cssClass } from '@syncfusion/ej2-lists';
+import { Animation, Browser, ChildProperty, Collection, Component, Event, EventHandler, HijriParser, Internationalization, KeyboardEvents, L10n, NotifyPropertyChanges, Property, addClass, append, attributes, cldrData, closest, createElement, detach, extend, formatUnit, getDefaultDateObject, getUniqueID, getValue, isNullOrUndefined, isUndefined, merge, prepend, remove, removeClass, rippleEffect, select, setStyleAttribute, setValue, throwError } from '-syncfusion/ej2-base';
+import { Popup } from '-syncfusion/ej2-popups';
+import { Input } from '-syncfusion/ej2-inputs';
+import { Button } from '-syncfusion/ej2-buttons';
+import { ListBase, cssClass } from '-syncfusion/ej2-lists';
 
 var __extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {

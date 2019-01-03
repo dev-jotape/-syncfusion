@@ -17,10 +17,10 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-import { Button } from '@syncfusion/ej2-buttons';
-import { EventHandler, Property, NotifyPropertyChanges, Animation, attributes } from '@syncfusion/ej2-base';
-import { Event, remove, removeClass, Complex, ChildProperty } from '@syncfusion/ej2-base';
-import { createSpinner, showSpinner, hideSpinner } from '@syncfusion/ej2-popups';
+import { Button } from '-syncfusion/ej2-buttons';
+import { EventHandler, Property, NotifyPropertyChanges, Animation, attributes } from '-syncfusion/ej2-base';
+import { Event, remove, removeClass, Complex, ChildProperty } from '-syncfusion/ej2-base';
+import { createSpinner, showSpinner, hideSpinner } from '-syncfusion/ej2-popups';
 var HIDESPINNER = 'e-hide-spinner';
 var PROGRESS = 'e-progress';
 var PROGRESSACTIVE = 'e-progress-active';

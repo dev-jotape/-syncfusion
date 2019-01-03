@@ -1,6 +1,6 @@
-import { isNullOrUndefined, closest, extend, EventHandler, uniqueID } from '@syncfusion/ej2-base';
-import { createElement, prepend, append, addClass, removeClass } from '@syncfusion/ej2-base';
-import { DataManager, Query, Predicate } from '@syncfusion/ej2-data';
+import { isNullOrUndefined, closest, extend, EventHandler, uniqueID } from '-syncfusion/ej2-base';
+import { createElement, prepend, append, addClass, removeClass } from '-syncfusion/ej2-base';
+import { DataManager, Query, Predicate } from '-syncfusion/ej2-data';
 import { Timezone } from '../timezone/timezone';
 import { generate } from '../../recurrence-editor/date-generator';
 import * as util from '../base/util';

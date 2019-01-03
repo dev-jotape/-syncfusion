@@ -1,4 +1,4 @@
-import { BaseEventArgs, Component, EmitType, INotifyPropertyChanged } from '@syncfusion/ej2-base';
+import { BaseEventArgs, Component, EmitType, INotifyPropertyChanged } from '-syncfusion/ej2-base';
 import { ColorPickerModel } from './color-picker-model';
 /**
  * ColorPicker Mode

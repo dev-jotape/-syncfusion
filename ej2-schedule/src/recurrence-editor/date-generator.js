@@ -1,4 +1,4 @@
-import { isNullOrUndefined, getDefaultDateObject, getValue, cldrData } from '@syncfusion/ej2-base';
+import { isNullOrUndefined, getDefaultDateObject, getValue, cldrData } from '-syncfusion/ej2-base';
 import { MS_PER_DAY } from '../schedule/base/util';
 /**
  * Date Generator from Recurrence Rule

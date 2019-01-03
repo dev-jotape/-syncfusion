@@ -1,4 +1,4 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
+import { ChildProperty } from '-syncfusion/ej2-base';
 /**
  * A class that holds the resource grouping related configurations on Schedule.
  */

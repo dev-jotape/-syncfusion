@@ -19,16 +19,16 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 /// <reference path='../drop-down-base/drop-down-base-model.d.ts'/>
 import { DropDownBase, dropDownBaseClasses } from '../drop-down-base/drop-down-base';
-import { Popup, createSpinner, showSpinner, hideSpinner } from '@syncfusion/ej2-popups';
-import { attributes, setValue } from '@syncfusion/ej2-base';
-import { NotifyPropertyChanges, extend } from '@syncfusion/ej2-base';
-import { EventHandler, Property, Event, compile, L10n } from '@syncfusion/ej2-base';
-import { Animation, Browser, prepend } from '@syncfusion/ej2-base';
+import { Popup, createSpinner, showSpinner, hideSpinner } from '-syncfusion/ej2-popups';
+import { attributes, setValue } from '-syncfusion/ej2-base';
+import { NotifyPropertyChanges, extend } from '-syncfusion/ej2-base';
+import { EventHandler, Property, Event, compile, L10n } from '-syncfusion/ej2-base';
+import { Animation, Browser, prepend } from '-syncfusion/ej2-base';
 import { Search } from '../common/incremental-search';
-import { append, addClass, removeClass, setStyleAttribute, closest, detach, remove } from '@syncfusion/ej2-base';
-import { getUniqueID, formatUnit, isNullOrUndefined, isUndefined } from '@syncfusion/ej2-base';
+import { append, addClass, removeClass, setStyleAttribute, closest, detach, remove } from '-syncfusion/ej2-base';
+import { getUniqueID, formatUnit, isNullOrUndefined, isUndefined } from '-syncfusion/ej2-base';
 /* tslint:disable */
-import { DataManager, Query, Predicate } from '@syncfusion/ej2-data';
+import { DataManager, Query, Predicate } from '-syncfusion/ej2-data';
 import { createFloatLabel, removeFloating, floatLabelFocus, floatLabelBlur } from './float-label';
 /* tslint:enable */
 var FOCUS = 'e-input-focus';

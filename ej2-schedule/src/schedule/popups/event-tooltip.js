@@ -1,5 +1,5 @@
-import { isNullOrUndefined, append, createElement } from '@syncfusion/ej2-base';
-import { Tooltip } from '@syncfusion/ej2-popups';
+import { isNullOrUndefined, append, createElement } from '-syncfusion/ej2-base';
+import { Tooltip } from '-syncfusion/ej2-popups';
 import * as cls from '../base/css-constant';
 import * as util from '../base/util';
 /**

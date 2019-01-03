@@ -1,11 +1,11 @@
 /**
  *
  */
-import { EventHandler, Internationalization } from '@syncfusion/ej2-base';
-import { rippleEffect } from '@syncfusion/ej2-base';
-import { removeClass, addClass, attributes, HijriParser } from '@syncfusion/ej2-base';
-import { getUniqueID } from '@syncfusion/ej2-base';
-import { isNullOrUndefined } from '@syncfusion/ej2-base';
+import { EventHandler, Internationalization } from '-syncfusion/ej2-base';
+import { rippleEffect } from '-syncfusion/ej2-base';
+import { removeClass, addClass, attributes, HijriParser } from '-syncfusion/ej2-base';
+import { getUniqueID } from '-syncfusion/ej2-base';
+import { isNullOrUndefined } from '-syncfusion/ej2-base';
 //class constant defination.
 var OTHERMONTH = 'e-other-month';
 var YEAR = 'e-year';

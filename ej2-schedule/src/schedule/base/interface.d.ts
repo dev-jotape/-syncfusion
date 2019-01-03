@@ -1,5 +1,5 @@
-import { BaseEventArgs } from '@syncfusion/ej2-base';
-import { ItemModel } from '@syncfusion/ej2-navigations';
+import { BaseEventArgs } from '-syncfusion/ej2-base';
+import { ItemModel } from '-syncfusion/ej2-navigations';
 import { PopupType } from './type';
 import { ResourcesModel } from '../models/models';
 /**

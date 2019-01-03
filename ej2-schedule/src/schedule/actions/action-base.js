@@ -1,5 +1,5 @@
-import { addClass, createElement, compile, extend, isNullOrUndefined, closest, setStyleAttribute } from '@syncfusion/ej2-base';
-import { formatUnit, remove, removeClass } from '@syncfusion/ej2-base';
+import { addClass, createElement, compile, extend, isNullOrUndefined, closest, setStyleAttribute } from '-syncfusion/ej2-base';
+import { formatUnit, remove, removeClass } from '-syncfusion/ej2-base';
 import * as cls from '../base/css-constant';
 /**
  * Base class for the common drag and resize related actions

@@ -1,4 +1,4 @@
-import { Ajax } from '@syncfusion/ej2-base';
+import { Ajax } from '-syncfusion/ej2-base';
 import { Aggregates } from './util';
 import { DataManager, DataOptions } from './manager';
 import { Query, Predicate, QueryOptions, ParamOption } from './query';

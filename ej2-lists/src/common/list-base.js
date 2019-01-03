@@ -1,7 +1,7 @@
-import { extend, merge, isNullOrUndefined, getValue } from '@syncfusion/ej2-base';
-import { attributes, prepend, isVisible, append, addClass } from '@syncfusion/ej2-base';
-import { compile } from '@syncfusion/ej2-base';
-import { DataManager, Query } from '@syncfusion/ej2-data';
+import { extend, merge, isNullOrUndefined, getValue } from '-syncfusion/ej2-base';
+import { attributes, prepend, isVisible, append, addClass } from '-syncfusion/ej2-base';
+import { compile } from '-syncfusion/ej2-base';
+import { DataManager, Query } from '-syncfusion/ej2-data';
 export var cssClass = {
     li: 'e-list-item',
     ul: 'e-list-parent e-ul',

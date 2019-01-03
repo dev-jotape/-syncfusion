@@ -18,10 +18,10 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 /// <reference path='../drop-down-button/drop-down-button-model.d.ts'/>
-import { Event, remove, addClass, removeClass, detach, getValue, setValue } from '@syncfusion/ej2-base';
-import { EventHandler, Collection, NotifyPropertyChanges, Property } from '@syncfusion/ej2-base';
-import { attributes, getUniqueID, getInstance, KeyboardEvents } from '@syncfusion/ej2-base';
-import { Button } from '@syncfusion/ej2-buttons';
+import { Event, remove, addClass, removeClass, detach, getValue, setValue } from '-syncfusion/ej2-base';
+import { EventHandler, Collection, NotifyPropertyChanges, Property } from '-syncfusion/ej2-base';
+import { attributes, getUniqueID, getInstance, KeyboardEvents } from '-syncfusion/ej2-base';
+import { Button } from '-syncfusion/ej2-buttons';
 import { getModel, Item } from './../common/common';
 import { DropDownButton } from '../drop-down-button/drop-down-button';
 var RTL = 'e-rtl';

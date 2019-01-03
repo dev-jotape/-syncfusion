@@ -1,5 +1,5 @@
-import { ChildProperty } from '@syncfusion/ej2-base';
-import { Query, DataManager } from '@syncfusion/ej2-data';
+import { ChildProperty } from '-syncfusion/ej2-base';
+import { Query, DataManager } from '-syncfusion/ej2-data';
 import { FieldModel } from './fields-model';
 /**
  * Holds the configuration of event related options and dataSource binding to Schedule.
